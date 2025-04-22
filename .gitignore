@@ -1,0 +1,36 @@
+# Игнорировать директорию сборки
+build/
+
+# Игнорировать бинарники и исполняемые файлы
+*.exe
+*.out
+*.out.*
+*.app
+*.bin
+*.dll
+*.so
+*.dylib
+
+# Игнорировать объектные файлы
+*.o
+*.obj
+*.cuo
+
+# Файлы CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio Code (если используешь)
+.vscode/
+
+# JetBrains CLion (если используешь)
+.idea/
+
+# Другие временные файлы
+*.log
+*.tmp
+*.swp
+*~
+
