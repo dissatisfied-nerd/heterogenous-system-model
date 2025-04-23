@@ -1,36 +1,20 @@
-cmake_minimum_required(VERSION 3.12)
-project(HeterogeneousComputing LANGUAGES CXX CUDA)  # Поддержка CUDA
+cmake_minimum_required(VERSION 3.18)
+project(HeterogenousSystemModel LANGUAGES CXX CUDA)
 
 set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_CUDA_ARCHITECTURES "native")  # Автовыбор архитектуры GPU
+set(CMAKE_CUDA_STANDARD 17)
 
-# Поиск необходимых библиотек
-find_package(OpenMP REQUIRED)
-find_package(CUDA REQUIRED)
+find_package(nlohmann_json REQUIRED)
 
-# Подключение JSON-библиотеки (например, nlohmann/json)
-include(FetchContent)
-FetchContent_Declare(
-    json
-    GIT_REPOSITORY https://github.com/nlohmann/json.git
-    GIT_TAG v3.11.2
-)
-FetchContent_MakeAvailable(json)
-
-# Основной проект
-add_executable(hcomp
-    src/main.cpp
-    src/Analyzer.cpp
-    src/Balancer.cpp
-    src/Scheduler.cpp
-    src/Logger.cpp
+file(GLOB SOURCES
+    "src/*.cpp"
+    "src/kernel/*.cpp"
+    "src/kernel/*.cu"
 )
 
-target_include_directories(hcomp PRIVATE include)
-target_link_libraries(hcomp PRIVATE OpenMP::OpenMP_CXX CUDA::cudart nlohmann_json::nlohmann_json)
+add_executable(${PROJECT_NAME} ${SOURCES}
+    main.cu)
 
-# Тесты (опционально)
-enable_testing()
-add_executable(test_analyzer tests/test_analyzer.cpp src/Analyzer.cpp)
-target_link_libraries(test_analyzer PRIVATE hcomp)
-add_test(NAME test_analyzer COMMAND test_analyzer)
+target_include_directories(${PROJECT_NAME} PRIVATE include)
+target_include_directories(${PROJECT_NAME} PRIVATE include/kernel)
+target_link_libraries(${PROJECT_NAME} PRIVATE nlohmann_json::nlohmann_json)

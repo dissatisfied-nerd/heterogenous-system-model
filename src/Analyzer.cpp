@@ -1,14 +1,14 @@
 #include "Analyzer.hpp"
 #include <cmath>
 
-TaskProfile Analyzer::analyze(const std::vector<float>& input_data) 
+TaskProfile Analyzer::analyze(const std::vector<float>& input_data, size_t data_size) 
 {
     TaskProfile profile;
-    profile.complexity = input_data.size();
+    profile.complexity = input_data.size() / input_data.size();
     profile.memory_usage = input_data.size() * sizeof(float);
+    profile.matrix_size = data_size;
     
-    // Эвристика: если данных много → GPU, если мало → CPU
-    profile.preferred_device = (input_data.size() > 1024) 
+    profile.preferred_device = (data_size > 512 + 1) 
         ? DeviceType::GPU 
         : DeviceType::CPU;
     

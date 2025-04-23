@@ -28,6 +28,6 @@ cmake --build .
 if $test_found; then
     ctest
 else
-    ./HeterogenousSystem
+    ./HeterogenousSystemModel
 fi
 

@@ -1,4 +1,3 @@
-// src/Logger.cpp
 #include "Logger.hpp"
 
 Logger::Logger(const std::string& filename) {
@@ -8,9 +7,21 @@ Logger::Logger(const std::string& filename) {
 void Logger::log(const Task& task, float execTime) 
 {
     nlohmann::json entry;
+    
     entry["task_id"] = task.id;
     entry["device"] = (task.profile.preferred_device == DeviceType::CPU) ? "CPU" : "GPU";
+    entry["size"] = task.profile.matrix_size;
     entry["exec_time_ms"] = execTime;
+    
+    jsonLog.push_back(entry);
+    logFile << jsonLog.dump(4) << std::endl;
+}
+
+void Logger::logError(const std::string& taskId, const std::string& error)
+{
+    nlohmann::json entry;
+    entry["task_id"] = taskId;
+    entry["error"] = error;
     entry["timestamp"] = std::chrono::system_clock::now().time_since_epoch().count();
     
     jsonLog.push_back(entry);
