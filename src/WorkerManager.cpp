@@ -4,27 +4,50 @@
 #include <fstream>
 #include <iostream>
 
-WorkerManager::WorkerManager(Scheduler& sched, Logger& logRef)
-    : scheduler(sched), logger(logRef) {}
+WorkerManager::WorkerManager(Scheduler& sched, Logger& logRef, Profiler& profRef, Analyzer& analyzerRef)
+    : scheduler(sched), logger(logRef), profiler(profRef), analyzer(analyzerRef) {}
 
-void WorkerManager::start(int numThreads) {
-    for (int i = 0; i < numThreads; ++i) {
-        workers.emplace_back([this]() {
-            while (true) {
+void WorkerManager::start(int numThreads) 
+{
+    for (int i = 0; i < numThreads; ++i) 
+    {
+        workers.emplace_back([this]() 
+        {
+            while (true) 
+            {
                 Task task;
                 {
                     std::unique_lock<std::mutex> lock(syncMutex);
-                    if (!scheduler.hasTasks()) break;
+                    if (!scheduler.hasTasks()) {
+                        break;
+                    }
+        
                     task = scheduler.getNext();
                     ++activeTasks;
                 }
 
-                task.executionTime = task.useGPU ? multiplyGPU(task) : multiplyCPU(task);
+                if (task.useGPU) 
+                {
+                    activeGPU++;
+                    task.executionTime = multiplyGPU(task);
+                    activeGPU--;
+                } 
+                else 
+                {
+                    activeCPU++;
+                    task.executionTime = multiplyCPU(task);
+                    activeCPU--;
+                }
+                
+
+                std::string key = std::to_string(task.a.size()) + "x" + std::to_string(task.b[0].size());
+                profiler.addSample(key, task.useGPU, task.executionTime);
                 logger.logTask(task);
 
                 {
                     std::lock_guard<std::mutex> lock(syncMutex);
                     --activeTasks;
+                    
                     if (activeTasks == 0 && !scheduler.hasTasks()) {
                         syncCv.notify_one();
                     }
@@ -45,7 +68,12 @@ void WorkerManager::wait() {
     for (auto& worker : workers)
         if (worker.joinable()) worker.join();
 
-    logger.writeToFile("../log/metrics.json");
+    logger.logSummary(profiler, analyzer.getThreshold());
+    analyzer.saveThreshold();
+
+    logger.writeToFile();
 }
+
+
 
 

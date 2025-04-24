@@ -1,0 +1,5002 @@
+{
+    "001d78e8-6208-43d7-9ce3-17161a1d85a5": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.089402,
+        "matrix_size": "92x92"
+    },
+    "00828e7a-3b95-48cd-b947-154a1bcd9e2e": {
+        "architecture": "CPU",
+        "executionTime_ms": 9.809093,
+        "matrix_size": "59x59"
+    },
+    "008f7efb-4f6e-4477-b37e-b782602b582e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.035761,
+        "matrix_size": "94x94"
+    },
+    "010c2e7d-fcb7-4f0d-9e19-eb7af996d2c7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.003108,
+        "matrix_size": "3x3"
+    },
+    "0143535d-d3d8-4c02-b64a-7a5f680f9c68": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023244,
+        "matrix_size": "78x78"
+    },
+    "01534990-774c-4e0c-9b7a-31536c6c6d30": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024197,
+        "matrix_size": "71x71"
+    },
+    "0171881e-4c53-45d2-98fa-0cca70ea5402": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.036999,
+        "matrix_size": "94x94"
+    },
+    "01895088-1f21-49f8-a5da-46444b0e3939": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.176252,
+        "matrix_size": "18x18"
+    },
+    "01a307c3-8df3-458a-a75f-46d46fd68e76": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.03463,
+        "matrix_size": "82x82"
+    },
+    "01cc725b-025b-45ba-ba2c-6eb8715b6753": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.041153,
+        "matrix_size": "95x95"
+    },
+    "01e7e8d3-06bf-4ad4-8503-4b81b60c15db": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.035119,
+        "matrix_size": "89x89"
+    },
+    "02c2f696-0758-4500-a9e6-6546eb66a22c": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.242672,
+        "matrix_size": "20x20"
+    },
+    "02fd5141-aa48-464c-bb42-42a671319188": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.897544,
+        "matrix_size": "59x59"
+    },
+    "033c2899-ec99-43f4-8614-eaae358505f4": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.677541,
+        "matrix_size": "29x29"
+    },
+    "0355b007-1ab4-489b-a235-8404bdee0c0f": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026711,
+        "matrix_size": "84x84"
+    },
+    "0372e376-ff14-47ea-b2ea-c632efbf44aa": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.093103,
+        "matrix_size": "68x68"
+    },
+    "03a1d235-8647-48a0-b2f4-4a040aa4c49f": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.541165,
+        "matrix_size": "46x46"
+    },
+    "04fea3da-2bbe-4352-b807-0102704aa9d2": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.03812,
+        "matrix_size": "10x10"
+    },
+    "058bf240-52b0-42e1-890a-f59b33d4729d": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.854746,
+        "matrix_size": "44x44"
+    },
+    "059133c8-47dc-4c20-90f7-18816ef40e8f": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.387212,
+        "matrix_size": "62x62"
+    },
+    "05d745c1-f8b4-4496-a485-efd7de91607a": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.511565,
+        "matrix_size": "40x40"
+    },
+    "0652dad6-6bf0-4644-ba73-4c2b24484261": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.42782,
+        "matrix_size": "22x22"
+    },
+    "0662ce9e-1585-4f22-bb8e-ecde120d1a1b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.033533,
+        "matrix_size": "80x80"
+    },
+    "067a7831-9fd0-4711-96b4-9600ac75daac": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02521,
+        "matrix_size": "71x71"
+    },
+    "06a533fc-1875-4f8c-9a65-b1c968b846f5": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.978148,
+        "matrix_size": "41x41"
+    },
+    "06d9eb87-8094-4afb-a122-0848d964e959": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.700071,
+        "matrix_size": "37x37"
+    },
+    "06e6f0cc-0e85-4109-901f-de75732eeb35": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.047051,
+        "matrix_size": "11x11"
+    },
+    "071846cc-4350-473f-901d-5e212ea28b41": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.385383,
+        "matrix_size": "19x19"
+    },
+    "075a0c24-3df4-4093-b309-873c191ca21f": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024108,
+        "matrix_size": "75x75"
+    },
+    "075ec298-4d4e-49e0-bd06-7a25e07a9b00": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02308,
+        "matrix_size": "71x71"
+    },
+    "0782897b-71c7-4019-9d96-51044678ccff": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.027126,
+        "matrix_size": "80x80"
+    },
+    "085b02d4-5261-4c45-9822-5088847c5a49": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.975783,
+        "matrix_size": "54x54"
+    },
+    "088d7943-888d-4a0c-8920-b9774f0a139f": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.831897,
+        "matrix_size": "38x38"
+    },
+    "08ef7c2a-ec6b-4fa6-9f42-4b6a30613a7a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.185104,
+        "matrix_size": "18x18"
+    },
+    "094e6f50-d66d-4719-a5a0-220a2a2bd007": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.256465,
+        "matrix_size": "34x34"
+    },
+    "0982453e-31c9-4d87-98c9-9d5d50626d63": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022201,
+        "matrix_size": "71x71"
+    },
+    "09b20606-05a5-4050-b2e9-410b160dd5a8": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.681789,
+        "matrix_size": "29x29"
+    },
+    "0ae867f1-7ea0-477c-a69f-57b546f4044e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.097102,
+        "matrix_size": "75x75"
+    },
+    "0b4f5450-8d03-4c3f-8fba-f51a6efb4128": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.559072,
+        "matrix_size": "52x52"
+    },
+    "0b7c4dd8-8c0c-4702-98de-2188e4b1d120": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.442931,
+        "matrix_size": "24x24"
+    },
+    "0ba00e75-c410-40ac-912f-408da9bacf3f": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.071894,
+        "matrix_size": "31x31"
+    },
+    "0bab65b1-e2ce-4f6f-b035-1b241c61e30d": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.025804,
+        "matrix_size": "9x9"
+    },
+    "0bc4ac99-7562-4a61-8fc5-a62190f9be87": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.00928,
+        "matrix_size": "6x6"
+    },
+    "0c016005-6783-42b8-be33-ea536a89b60b": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.092825,
+        "matrix_size": "13x13"
+    },
+    "0c1b238d-00cc-46b7-a756-851d475b367e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.033821,
+        "matrix_size": "90x90"
+    },
+    "0c35dc16-1c2f-49d7-9024-bd4242bd8925": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.204398,
+        "matrix_size": "18x18"
+    },
+    "0c6ac715-44ce-41bb-bcd7-a477203934b2": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.038382,
+        "matrix_size": "68x68"
+    },
+    "0c8917ab-bf7a-4c5f-a7a9-87b339cd585f": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.299245,
+        "matrix_size": "43x43"
+    },
+    "0caf430e-e0d2-42f6-9300-909f8c8db162": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.079566,
+        "matrix_size": "34x34"
+    },
+    "0cdaa1f8-c0bc-42ea-b83f-d820a93e3f25": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.195241,
+        "matrix_size": "18x18"
+    },
+    "0d0af831-8a17-42d5-950c-b4632a310ee9": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.037772,
+        "matrix_size": "95x95"
+    },
+    "0d213e89-b488-4dee-9742-fabc7cf4ded9": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.665136,
+        "matrix_size": "28x28"
+    },
+    "0e0be60a-7281-4eb0-a5a8-bc0df2fb5ef5": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.483094,
+        "matrix_size": "55x55"
+    },
+    "0e21b5bb-c618-40d5-a2f9-b90ffdba8d04": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.041483,
+        "matrix_size": "77x77"
+    },
+    "0e44c63a-4d55-4ba1-bba1-036ba3be3bb3": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.101348,
+        "matrix_size": "74x74"
+    },
+    "0e694fe8-3d6b-40d9-bde1-5bb6532af581": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.394077,
+        "matrix_size": "96x96"
+    },
+    "0e73ac96-aa05-4bc6-bdc2-1ccb313dcaca": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.002254,
+        "matrix_size": "2x2"
+    },
+    "0e96185e-3387-4e80-9bad-aa1f5fd43d72": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.61428,
+        "matrix_size": "58x58"
+    },
+    "0ef1135c-4358-4291-af79-1dcfb9c7a9f8": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.255533,
+        "matrix_size": "17x17"
+    },
+    "0efe406a-d50c-463e-96ae-25a802815e8c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.036615,
+        "matrix_size": "93x93"
+    },
+    "0f8063c3-2faa-4150-af2c-94faa826153c": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.51417,
+        "matrix_size": "51x51"
+    },
+    "0fe11a80-b5bd-45b3-8fa8-2ef3335ec265": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.056648,
+        "matrix_size": "64x64"
+    },
+    "10a0f10d-8f5f-4c33-84a6-d0f220165ac3": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.080696,
+        "matrix_size": "84x84"
+    },
+    "1133d903-1196-4cb3-b921-4c7206cc91a4": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.087513,
+        "matrix_size": "28x28"
+    },
+    "11560607-e93f-4ccc-9654-90fe1d0400e3": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022794,
+        "matrix_size": "65x65"
+    },
+    "1210fc18-742c-43a9-bceb-4e4c55c3fd2e": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.055821,
+        "matrix_size": "31x31"
+    },
+    "1239031d-bc66-4997-9150-7b6060962c3a": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.187884,
+        "matrix_size": "38x38"
+    },
+    "1239e931-ed4f-4053-b7cf-a46fcf9f6cf8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022759,
+        "matrix_size": "67x67"
+    },
+    "12d1171c-e860-45bb-b59d-37cae9c8dcd9": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.97911,
+        "matrix_size": "50x50"
+    },
+    "137fe803-5b89-45af-8617-38bb9d4ac17b": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.826701,
+        "matrix_size": "31x31"
+    },
+    "13cf768a-b5ee-4f40-8c79-2a137da67f27": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.002433,
+        "matrix_size": "3x3"
+    },
+    "13fd8167-a7ca-4c37-813e-aa2af549d362": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.057588,
+        "matrix_size": "87x87"
+    },
+    "142f32ec-b850-4a99-bfc3-5123319765ed": {
+        "architecture": "CPU",
+        "executionTime_ms": 8.331724,
+        "matrix_size": "61x61"
+    },
+    "144b57ff-128c-451d-afa2-c9fb6c5977f9": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.069351,
+        "matrix_size": "91x91"
+    },
+    "14a7c38f-5bbb-460c-a89a-c152cb1d0b50": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.031206,
+        "matrix_size": "86x86"
+    },
+    "14c48492-fd50-4376-9c71-9077947bd66a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026893,
+        "matrix_size": "82x82"
+    },
+    "152a47fc-9cbd-4079-b7be-67fd4679de06": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.031292,
+        "matrix_size": "88x88"
+    },
+    "15689a29-8231-4cc6-b27d-c6d6c076cdb2": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.040501,
+        "matrix_size": "100x100"
+    },
+    "1568ca4e-d4a1-421b-9b5c-9aaaf9d755ca": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.556051,
+        "matrix_size": "50x50"
+    },
+    "156d741b-6487-4bd7-9af8-7700bc77924c": {
+        "architecture": "CPU",
+        "executionTime_ms": 9.901245,
+        "matrix_size": "59x59"
+    },
+    "160f8f17-3553-47ce-b769-ff79ddd38ff4": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.033291,
+        "matrix_size": "10x10"
+    },
+    "165d98bf-01c5-43ee-88b2-d402d3d48649": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.401878,
+        "matrix_size": "60x60"
+    },
+    "16860e9f-3f9b-4e11-8b0c-9e22b189fa03": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.051209,
+        "matrix_size": "70x70"
+    },
+    "16b3e1dc-a061-42a2-a934-d476c481c34a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.021028,
+        "matrix_size": "64x64"
+    },
+    "16ed6a28-0f6b-4343-a799-265f486b22b6": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.052377,
+        "matrix_size": "90x90"
+    },
+    "16f3deca-3028-40be-a429-9c1af3ebf658": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.880236,
+        "matrix_size": "39x39"
+    },
+    "16f8e765-6f1b-4d3b-a3dc-614ca81de03e": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.08047,
+        "matrix_size": "52x52"
+    },
+    "170e49d2-5ebd-4fa9-b9df-24f2caa97a80": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.033431,
+        "matrix_size": "90x90"
+    },
+    "178a0200-d2de-4fad-a230-d5dd234fb59b": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.15504,
+        "matrix_size": "15x15"
+    },
+    "184c870e-fef0-4f2d-9b45-61c462f6b048": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.756853,
+        "matrix_size": "28x28"
+    },
+    "187a1fb2-537e-4e5d-89e0-2c1332d7cfa7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.025768,
+        "matrix_size": "9x9"
+    },
+    "18dbb86b-95c1-4f28-b269-3c1c531016bd": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023823,
+        "matrix_size": "76x76"
+    },
+    "18dcc0e6-2527-4a85-b464-e899892dacb4": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.929539,
+        "matrix_size": "50x50"
+    },
+    "19150681-6631-4db4-8298-bcc816b5b46a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.776311,
+        "matrix_size": "29x29"
+    },
+    "192410bd-4d1f-4ecd-bc37-518007ceab7f": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.450655,
+        "matrix_size": "43x43"
+    },
+    "19418c1f-a7ec-45d5-ab79-5e210ea9e0e8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023216,
+        "matrix_size": "64x64"
+    },
+    "19508e5b-6171-4868-ae7d-afb375ad4d9d": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.021491,
+        "matrix_size": "8x8"
+    },
+    "1971648d-11da-41b7-a786-aed07168b190": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029511,
+        "matrix_size": "85x85"
+    },
+    "197c73bb-45c4-4d20-8baa-5c29da7197db": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.15335,
+        "matrix_size": "16x16"
+    },
+    "19d0564b-0190-472d-a4dd-215fbf76863b": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.014294,
+        "matrix_size": "7x7"
+    },
+    "1a373cf1-78f1-4dda-ab14-fa8f97df5ada": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.903294,
+        "matrix_size": "59x59"
+    },
+    "1a750777-11f5-4741-a8f0-7f7812fd55fe": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.004944,
+        "matrix_size": "4x4"
+    },
+    "1a76bb82-5c49-42b7-9139-1042bd4b2ffb": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.720767,
+        "matrix_size": "36x36"
+    },
+    "1a788c6b-afd0-4b93-acdf-c12ef920c5d7": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.606143,
+        "matrix_size": "60x60"
+    },
+    "1aef8921-ca8a-45eb-98a0-14a406196858": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026782,
+        "matrix_size": "83x83"
+    },
+    "1b126215-b7db-4948-b3cd-af233e8d3770": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.09752,
+        "matrix_size": "54x54"
+    },
+    "1bb9b4f3-af96-4222-a9ff-2bdcb32a8f25": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.906948,
+        "matrix_size": "57x57"
+    },
+    "1bc61510-93d6-4148-b5ba-fb9d8294c342": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.038662,
+        "matrix_size": "95x95"
+    },
+    "1be876ad-ea5f-4d4e-9381-9597aa76ba00": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.077952,
+        "matrix_size": "13x13"
+    },
+    "1c9e8d57-f5c7-43b2-a8ce-4e728ed3c99a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.850804,
+        "matrix_size": "28x28"
+    },
+    "1cefc087-5c7f-4384-8edd-7ed23479cd8d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024819,
+        "matrix_size": "77x77"
+    },
+    "1dc360e5-2661-42da-a1f5-fdb9629028c8": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.57166,
+        "matrix_size": "38x38"
+    },
+    "1dfb16ad-5274-44c3-bab1-db5120ae6ba4": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.054315,
+        "matrix_size": "87x87"
+    },
+    "1ec77d47-caa6-4820-890b-cf7ec2025fd4": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.251458,
+        "matrix_size": "20x20"
+    },
+    "1f0745c1-e296-4e04-a8e7-955c2c2e4847": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.188518,
+        "matrix_size": "34x34"
+    },
+    "1f0de399-b5ef-4cdf-9928-3118113425a2": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.031362,
+        "matrix_size": "90x90"
+    },
+    "1f0df896-82fa-4bd7-8fa5-74098719c26f": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.052809,
+        "matrix_size": "90x90"
+    },
+    "1f43fefe-93c8-4f08-bac6-c065b9f2a4ab": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.752796,
+        "matrix_size": "45x45"
+    },
+    "20483ebe-55f3-4d9b-a63a-90bc20a3267d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023574,
+        "matrix_size": "65x65"
+    },
+    "20e13631-22ad-4d02-9c7a-4ed9e1767831": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029276,
+        "matrix_size": "77x77"
+    },
+    "2113afcc-268b-49d3-97db-8ed437d17f15": {
+        "architecture": "CPU",
+        "executionTime_ms": 9.15588,
+        "matrix_size": "63x63"
+    },
+    "2125e984-ab47-44b0-962a-d00a8921371d": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.155086,
+        "matrix_size": "56x56"
+    },
+    "2158c414-3c54-4902-92e9-93b50b6c0c32": {
+        "architecture": "CPU",
+        "executionTime_ms": 8.759609,
+        "matrix_size": "62x62"
+    },
+    "217c8380-f72b-439e-99f9-a7ef0ad51735": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.582718,
+        "matrix_size": "58x58"
+    },
+    "217f29fe-2020-4d3e-b773-58813dfb67c3": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.769107,
+        "matrix_size": "61x61"
+    },
+    "21af3192-0430-4bdb-b35f-13c3ec14a740": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.068901,
+        "matrix_size": "97x97"
+    },
+    "21d8cca3-be79-483b-a204-4697ec617cca": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.077458,
+        "matrix_size": "64x64"
+    },
+    "223583e7-f9d2-4e60-9396-31bd61cb065c": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.07606,
+        "matrix_size": "13x13"
+    },
+    "224b8099-68a8-4d4e-8671-3d2d46160c47": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.040069,
+        "matrix_size": "98x98"
+    },
+    "22d53763-41e5-4fb1-a4b5-4c7646e91ae9": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.303289,
+        "matrix_size": "60x60"
+    },
+    "232ca685-10e2-4155-bd02-6269d47f9e2a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.039431,
+        "matrix_size": "97x97"
+    },
+    "23369cf9-f7ee-46ac-8346-8fbc7a8ddbaa": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022544,
+        "matrix_size": "70x70"
+    },
+    "239dcfa3-44ef-435f-ac47-7335d741373c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.420301,
+        "matrix_size": "78x78"
+    },
+    "23f1cb4d-fd62-4a92-b424-d808fddc7ed3": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.638686,
+        "matrix_size": "59x59"
+    },
+    "2419aa8d-01ef-4690-ac02-ba02f5bde2fc": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.025316,
+        "matrix_size": "78x78"
+    },
+    "245d1253-a251-42ec-962d-19f1f8f4e566": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.662342,
+        "matrix_size": "56x56"
+    },
+    "2476b2c3-ce6b-4996-93ec-67c6e121ce80": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.995787,
+        "matrix_size": "50x50"
+    },
+    "24919eec-ed1e-440b-8d8b-52e5f52a1e54": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.575425,
+        "matrix_size": "26x26"
+    },
+    "249ec344-a92f-4832-b237-ae97933d0e51": {
+        "architecture": "CPU",
+        "executionTime_ms": 9.678628,
+        "matrix_size": "63x63"
+    },
+    "251dc9db-75d1-43d8-92ec-533586d59fc8": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.35404,
+        "matrix_size": "36x36"
+    },
+    "2553a4dd-f3d2-49bc-a2cc-9c9e959ff4e1": {
+        "architecture": "CPU",
+        "executionTime_ms": 8.46736,
+        "matrix_size": "56x56"
+    },
+    "2566f781-7af0-4f74-b766-b2a713bac16e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.025055,
+        "matrix_size": "73x73"
+    },
+    "25755c96-84f8-4d32-8d78-42caab3211cb": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.687913,
+        "matrix_size": "58x58"
+    },
+    "25b22ff4-e4d2-429d-8c87-d5f1f3cb4db9": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.851889,
+        "matrix_size": "48x48"
+    },
+    "26005893-5a56-48f3-877f-3f89079ec831": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.189921,
+        "matrix_size": "42x42"
+    },
+    "2679f6df-1b1c-47ee-b961-60b07359e8eb": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02626,
+        "matrix_size": "77x77"
+    },
+    "2719c770-0109-43b8-8cfc-02551b48b810": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.119814,
+        "matrix_size": "16x16"
+    },
+    "27c407ff-7197-4f3d-9380-bccd2f95e1fb": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.325977,
+        "matrix_size": "42x42"
+    },
+    "27d002fe-1a1d-4512-a104-db9e1f0cfb56": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.141423,
+        "matrix_size": "17x17"
+    },
+    "27e6e9b1-43c2-46b7-8c28-4101539d428f": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.028007,
+        "matrix_size": "85x85"
+    },
+    "27f857cf-19ae-4fc3-89bd-1275c93a3f00": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.110061,
+        "matrix_size": "15x15"
+    },
+    "2856ff57-9cee-4437-841c-89d6df935cdd": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.515988,
+        "matrix_size": "51x51"
+    },
+    "289349df-6c99-4ac9-94aa-856795187b6b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.021818,
+        "matrix_size": "70x70"
+    },
+    "28c60189-4173-488e-8311-e1c8380f25b2": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.643228,
+        "matrix_size": "59x59"
+    },
+    "290fb5a2-87ff-4feb-8570-9040abef3a93": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.264606,
+        "matrix_size": "46x46"
+    },
+    "292b3cad-50f2-4798-beee-0e5eba2e19e7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.463575,
+        "matrix_size": "24x24"
+    },
+    "293321b4-1b53-4b69-acab-3440e0a8bc39": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.314053,
+        "matrix_size": "18x18"
+    },
+    "2984d0ac-526b-4b58-a6ca-838ff9fb7268": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023609,
+        "matrix_size": "67x67"
+    },
+    "29b33c26-466b-4275-80c3-7d031d9b9df0": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.840051,
+        "matrix_size": "61x61"
+    },
+    "29e65577-ea39-45fe-8e5d-591ef78bfac6": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.061989,
+        "matrix_size": "99x99"
+    },
+    "2a2789fd-98b9-4373-8a8d-fd1e823efcd3": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.028938,
+        "matrix_size": "86x86"
+    },
+    "2a3a8e7d-71e5-46dd-aec2-dc4d1f6a6b12": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02368,
+        "matrix_size": "74x74"
+    },
+    "2a46974b-3f7a-4da3-b407-78187c1d4879": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.442183,
+        "matrix_size": "24x24"
+    },
+    "2a7154d5-fdc8-45b0-aa2b-6ab41fabbc3b": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.371023,
+        "matrix_size": "53x53"
+    },
+    "2a913537-d183-433e-b49c-76cdb4eb181e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.03604,
+        "matrix_size": "93x93"
+    },
+    "2ab04eb0-4cb0-4f91-8c33-395bfd5dfa17": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.070195,
+        "matrix_size": "81x81"
+    },
+    "2acd50a6-b0b4-4903-9c01-37aa361e04b3": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.014361,
+        "matrix_size": "7x7"
+    },
+    "2acd745d-d65f-4244-835a-fbb8d41f8cf8": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.579944,
+        "matrix_size": "38x38"
+    },
+    "2ae2851f-da5b-4617-9c19-49abe1c17c86": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.033454,
+        "matrix_size": "85x85"
+    },
+    "2b1aa0c7-cca4-425a-bde0-10a6d31b6125": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.019582,
+        "matrix_size": "8x8"
+    },
+    "2b27d82c-b3be-45de-a08e-a8c08fdd8974": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.40621,
+        "matrix_size": "24x24"
+    },
+    "2c45fbca-365a-465d-a036-44e1b65f09e1": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.355686,
+        "matrix_size": "23x23"
+    },
+    "2d75521e-af9b-4f69-93ed-73ecc301327b": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.706415,
+        "matrix_size": "55x55"
+    },
+    "2d7fc221-877b-4581-a50b-8c23ec685bb8": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.228098,
+        "matrix_size": "19x19"
+    },
+    "2dbae7aa-9b0c-4d1e-bfbe-42279ab5b744": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.883104,
+        "matrix_size": "30x30"
+    },
+    "2dc6fbfe-de90-41e0-a764-f1f4218e7621": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029023,
+        "matrix_size": "86x86"
+    },
+    "2e114883-df66-4a71-bddc-a1023df7b371": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.027836,
+        "matrix_size": "83x83"
+    },
+    "2e3acd3d-dab3-4958-8ad0-2a9161bfebe3": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.507659,
+        "matrix_size": "47x47"
+    },
+    "2e60d984-ccdc-40a7-9033-121c8ecd0581": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.085875,
+        "matrix_size": "14x14"
+    },
+    "2e94d0b8-1416-4d21-923d-357685d49c7e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.025263,
+        "matrix_size": "78x78"
+    },
+    "2e9c1aaf-30ba-4be9-9bf0-34ee1783627f": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.194335,
+        "matrix_size": "62x62"
+    },
+    "2ebe6c2a-dd6b-47a7-953f-44f95e55d494": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.159109,
+        "matrix_size": "17x17"
+    },
+    "2efafe81-04c1-47e7-ad57-eaddd55fde6d": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.904414,
+        "matrix_size": "53x53"
+    },
+    "2f0b7f23-6be1-4cd2-801b-50af307d3dc4": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.73018,
+        "matrix_size": "44x44"
+    },
+    "2f1c595b-624f-4ddd-8704-b9ae157a088e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.712004,
+        "matrix_size": "27x27"
+    },
+    "2f686de2-25ec-4608-9c8c-a7ebf6ad901d": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.149673,
+        "matrix_size": "17x17"
+    },
+    "300c3ea5-432b-4c8d-a33f-564339d98f28": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.744319,
+        "matrix_size": "84x84"
+    },
+    "3041c916-710a-4759-873c-70a0edf5e482": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.039861,
+        "matrix_size": "98x98"
+    },
+    "30425032-160a-49d5-a5ef-1a64482cdeb2": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.649173,
+        "matrix_size": "37x37"
+    },
+    "30df87c1-edad-4e7f-b5bb-95107dbfecdd": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.763747,
+        "matrix_size": "80x80"
+    },
+    "30e9c0fa-ccc6-4537-ac17-749317d6070c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.027628,
+        "matrix_size": "84x84"
+    },
+    "31001d2b-23e1-4e35-81f3-9620d11488e9": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.22565,
+        "matrix_size": "41x41"
+    },
+    "318446b6-c973-4fcb-8709-4d5a1bfe23ee": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.625088,
+        "matrix_size": "22x22"
+    },
+    "31cd62cb-295c-434b-a587-216ced59a322": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.039645,
+        "matrix_size": "97x97"
+    },
+    "32133acb-2028-4821-a21a-ec5f2149a0df": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.260631,
+        "matrix_size": "21x21"
+    },
+    "323636cc-6c35-4a3d-a431-12dc94ce217a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.032853,
+        "matrix_size": "10x10"
+    },
+    "326eed97-d287-4949-9a26-d08e151f1e4a": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.258046,
+        "matrix_size": "56x56"
+    },
+    "327cbb43-4930-42c3-a673-6d660ad8361a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.044307,
+        "matrix_size": "11x11"
+    },
+    "32d89613-7011-4c9e-ad5a-78b160537aea": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.088027,
+        "matrix_size": "89x89"
+    },
+    "331b2312-1ec5-4606-b2d0-f26068dbb3d0": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.774613,
+        "matrix_size": "39x39"
+    },
+    "33c43913-539c-4810-ba79-6661a52e1642": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.314066,
+        "matrix_size": "59x59"
+    },
+    "33f0b96a-0b4a-46bc-ad4c-948a07e59fbe": {
+        "architecture": "CPU",
+        "executionTime_ms": 8.359978,
+        "matrix_size": "62x62"
+    },
+    "341bcbf9-18da-4b3b-9191-04e7b858ef6b": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.164932,
+        "matrix_size": "44x44"
+    },
+    "34abca01-4832-4e4f-85f6-71d5cd0663b2": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.517818,
+        "matrix_size": "68x68"
+    },
+    "35041b7f-3e6b-46dc-a827-5dd219d21547": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.005359,
+        "matrix_size": "4x4"
+    },
+    "3527e328-dec2-46de-bca0-612b942a5e60": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.114837,
+        "matrix_size": "98x98"
+    },
+    "3596df64-a185-4400-84f1-a143769b067a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.00596,
+        "matrix_size": "4x4"
+    },
+    "360d51dc-4574-40f4-9734-b4b3289f63d8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.052427,
+        "matrix_size": "82x82"
+    },
+    "365aac7a-733f-4559-b877-e602755634e7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.004646,
+        "matrix_size": "4x4"
+    },
+    "368a5724-ca7d-4715-9976-8f325bd3ad47": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029287,
+        "matrix_size": "77x77"
+    },
+    "374f98d0-eab8-4045-a627-6a5a1167b2ba": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.033276,
+        "matrix_size": "90x90"
+    },
+    "37601e3c-5a98-4a8b-8d31-94abef2d0c70": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.027501,
+        "matrix_size": "9x9"
+    },
+    "376f9fb8-24f2-42ee-a2fa-ca65aa853150": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.205156,
+        "matrix_size": "19x19"
+    },
+    "37a293d1-f5ce-4c69-9637-bbc5fcfbbffa": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.216353,
+        "matrix_size": "19x19"
+    },
+    "382e7475-9ea3-4841-a0b0-180c0c99e8d1": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.027506,
+        "matrix_size": "82x82"
+    },
+    "38b74e7b-ece8-4999-b86b-c93c1e2745d8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026956,
+        "matrix_size": "84x84"
+    },
+    "391806dd-7a23-44a6-abd2-c3842142dfb0": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.025029,
+        "matrix_size": "77x77"
+    },
+    "393eb483-6803-486c-acd9-ad9de49dfc13": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022738,
+        "matrix_size": "71x71"
+    },
+    "39550d09-156a-4117-82e8-129083c399a8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.035786,
+        "matrix_size": "93x93"
+    },
+    "3a3ba6e0-ccec-4c53-a35b-78a24e8e175a": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.47743,
+        "matrix_size": "36x36"
+    },
+    "3a97ef8b-f2df-4b42-b921-8aee4f860bb1": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.060031,
+        "matrix_size": "72x72"
+    },
+    "3ae3f4e6-50d3-4f71-99fb-f0f138f870c1": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02127,
+        "matrix_size": "65x65"
+    },
+    "3b36d6c7-35db-4991-9caa-f28e0a09f984": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.010125,
+        "matrix_size": "4x4"
+    },
+    "3b51d0f6-8567-4490-962b-003c1e3b5fff": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.036326,
+        "matrix_size": "93x93"
+    },
+    "3b65a32e-026c-4a64-8347-c399850522d2": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.17021,
+        "matrix_size": "18x18"
+    },
+    "3b969154-f532-4f1b-a1f9-8c9e8d12cd23": {
+        "architecture": "CPU",
+        "executionTime_ms": 8.461672,
+        "matrix_size": "61x61"
+    },
+    "3bbe2d35-c145-408c-8db6-628dd924c7d3": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026109,
+        "matrix_size": "82x82"
+    },
+    "3bc8fbfc-0622-498b-9ae7-b87d94b6ed63": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.02006,
+        "matrix_size": "8x8"
+    },
+    "3bd25a67-6be3-4291-bd7d-9d49bad9c6ba": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.03274,
+        "matrix_size": "90x90"
+    },
+    "3bd3564e-27f9-475d-b5ef-621785355c34": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.039253,
+        "matrix_size": "97x97"
+    },
+    "3cb5f0b6-4ea5-475e-b5c4-1a48f9d7cac8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.046987,
+        "matrix_size": "100x100"
+    },
+    "3d446d6c-189f-4618-83ba-48f66c47e4ca": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.366581,
+        "matrix_size": "75x75"
+    },
+    "3df65d18-bb5f-4d03-9c76-4b0707b59123": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.002701,
+        "matrix_size": "2x2"
+    },
+    "3df9c891-bd6c-4b67-8ece-61b563d1ebf3": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.006966,
+        "matrix_size": "5x5"
+    },
+    "3e5b6515-29e3-4180-9538-8fb07f303176": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.509137,
+        "matrix_size": "26x26"
+    },
+    "3e60137b-762a-44bb-bc00-1ec0e572a939": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.028948,
+        "matrix_size": "85x85"
+    },
+    "3e6d2b54-1bad-439c-bf69-1c66b4cbedce": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.184565,
+        "matrix_size": "18x18"
+    },
+    "3ef827c4-426e-441f-876b-74748df6eb6e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.68,
+        "matrix_size": "30x30"
+    },
+    "3f92b6d2-6df5-487d-a56e-35c118803162": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.51227,
+        "matrix_size": "61x61"
+    },
+    "40125d68-0c01-4a7c-9531-c713c433d953": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.014691,
+        "matrix_size": "7x7"
+    },
+    "40255690-e1db-4de2-9a5f-3fd7f5f13cf8": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.731005,
+        "matrix_size": "34x34"
+    },
+    "4033c876-e895-413b-aa58-a2027c2632c3": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029335,
+        "matrix_size": "82x82"
+    },
+    "405b8078-8d41-4b19-860e-9f3d4031a05f": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.033873,
+        "matrix_size": "88x88"
+    },
+    "407e1bb3-c74c-44ca-bbb7-281a5b5c48ed": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.034159,
+        "matrix_size": "89x89"
+    },
+    "4084eeb5-0ffc-4ff8-a6cd-9ad4d23576c5": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.014498,
+        "matrix_size": "7x7"
+    },
+    "40d7c092-5566-4332-97ef-c30bc3e5df74": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.019474,
+        "matrix_size": "8x8"
+    },
+    "40dea2c3-3d89-4e93-b167-fcb0b8d64b94": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022031,
+        "matrix_size": "66x66"
+    },
+    "417f611e-6126-46ee-b928-80fe72bbc358": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023241,
+        "matrix_size": "67x67"
+    },
+    "419a5f9e-f0b3-4d29-af88-9405f400a0bb": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026476,
+        "matrix_size": "82x82"
+    },
+    "41d78c93-cb8b-4e7f-b9f6-cf1777b1dad8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.034898,
+        "matrix_size": "88x88"
+    },
+    "41dc9692-0d2a-4355-9e40-e0a3abd20c23": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.540943,
+        "matrix_size": "54x54"
+    },
+    "42914477-c3ce-49ba-9d09-2cfcd10dcc68": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.030573,
+        "matrix_size": "87x87"
+    },
+    "42df30e3-0ccc-44b1-8231-cb51cb1075b5": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.002386,
+        "matrix_size": "3x3"
+    },
+    "4347e3d9-5d24-419a-8821-e53739f779ca": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.263501,
+        "matrix_size": "99x99"
+    },
+    "436fa635-8baa-404e-8258-0ce58fc6c907": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.07522,
+        "matrix_size": "73x73"
+    },
+    "438ecdce-517a-494a-baae-156ee59fbcb7": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.938737,
+        "matrix_size": "42x42"
+    },
+    "439f08e9-df5d-4bc6-be70-f6c5aa8f1ac4": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.00157,
+        "matrix_size": "2x2"
+    },
+    "43fca06d-6167-4630-80fb-704e51fa81f3": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024266,
+        "matrix_size": "78x78"
+    },
+    "443cc9e3-dc52-46ca-b34f-6eaf1245f188": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026387,
+        "matrix_size": "79x79"
+    },
+    "444c4936-6ad0-490a-bd67-77110b4e8783": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.956721,
+        "matrix_size": "31x31"
+    },
+    "447977d4-4d14-464c-ba48-038e4d95e6e9": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.292579,
+        "matrix_size": "21x21"
+    },
+    "4553b3ed-9bc4-46d6-b2ac-86f1334d1d64": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.986173,
+        "matrix_size": "47x47"
+    },
+    "45cdc6d1-c613-42f7-9ea1-4c7a28336d25": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024023,
+        "matrix_size": "76x76"
+    },
+    "460dcdbe-3160-42ba-b237-fa04a58512ad": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024396,
+        "matrix_size": "80x80"
+    },
+    "46d4760e-088f-4238-8189-7497614c9b62": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.002694,
+        "matrix_size": "2x2"
+    },
+    "473cce64-a7fa-43fd-a4b1-01c3f1615a40": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.034624,
+        "matrix_size": "74x74"
+    },
+    "48333d9b-8805-45a1-9265-573cdc051faa": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.91297,
+        "matrix_size": "55x55"
+    },
+    "483837b0-8805-4ad0-8250-d1cb934d6009": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.94665,
+        "matrix_size": "46x46"
+    },
+    "484e70ea-ec72-4bd5-8149-15a54db57c9c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.078628,
+        "matrix_size": "73x73"
+    },
+    "4865f11b-950d-4e32-b8cc-81c5b20b50ea": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.413093,
+        "matrix_size": "24x24"
+    },
+    "4878e3e7-0dbf-4dd5-ba08-59a83c8300e4": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.332075,
+        "matrix_size": "47x47"
+    },
+    "4880d57c-6fcc-4d74-a0ff-4b4036fca7ea": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.099568,
+        "matrix_size": "15x15"
+    },
+    "48edc96d-2f1a-492c-82b5-c950530eed03": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.586912,
+        "matrix_size": "45x45"
+    },
+    "49225371-de0f-4025-9532-1240bd10bf38": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.650103,
+        "matrix_size": "28x28"
+    },
+    "494c39db-394f-4831-bf06-a4f9474721f2": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.214917,
+        "matrix_size": "19x19"
+    },
+    "49ad235b-78bd-477e-963e-923d213cec2e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.04596,
+        "matrix_size": "79x79"
+    },
+    "49db13f6-aeaa-4751-b311-f66fb0fcb5e2": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.027595,
+        "matrix_size": "79x79"
+    },
+    "49f5d978-4564-4a55-9260-cd2457d43149": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.79308,
+        "matrix_size": "40x40"
+    },
+    "4a3e2732-8321-4a64-9223-b773d03f5698": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.093868,
+        "matrix_size": "14x14"
+    },
+    "4a3f5513-0424-4629-9c3b-c184885744a6": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.027233,
+        "matrix_size": "83x83"
+    },
+    "4a8b1173-fe66-4c9b-afbf-bb34230a98f1": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.002808,
+        "matrix_size": "3x3"
+    },
+    "4ae03d8e-8366-4994-a717-936ca1b15e98": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.075372,
+        "matrix_size": "13x13"
+    },
+    "4b0982f3-82ee-4c38-b54f-cff8fd664a70": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.705303,
+        "matrix_size": "28x28"
+    },
+    "4b65aceb-5576-4567-be39-91c02aba4e19": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.665354,
+        "matrix_size": "32x32"
+    },
+    "4b751995-ca02-4957-8452-ede3afd750c1": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.09101,
+        "matrix_size": "65x65"
+    },
+    "4c37cf87-46af-486b-af58-c4bceb9d6079": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.117501,
+        "matrix_size": "37x37"
+    },
+    "4c3bdceb-4528-4502-93a2-4c15963ff964": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.463875,
+        "matrix_size": "37x37"
+    },
+    "4cdd8162-7fd4-4bf8-ae9f-1d7f7c4a25d5": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.027387,
+        "matrix_size": "66x66"
+    },
+    "4d101d45-c02e-4473-b8b3-b57704e7bef4": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.45163,
+        "matrix_size": "57x57"
+    },
+    "4d322544-69d5-4f62-83fb-016f3d2d52a0": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029592,
+        "matrix_size": "86x86"
+    },
+    "4d5eb2c5-d100-4f2e-ac66-b60830a5027d": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.191845,
+        "matrix_size": "46x46"
+    },
+    "4e513816-5fdf-4279-aa2d-a9e7c83a3725": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.006472,
+        "matrix_size": "5x5"
+    },
+    "4e894478-6cff-4bcf-b3df-325219bbd2b8": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.001939,
+        "matrix_size": "2x2"
+    },
+    "4e99a5f3-9225-4415-abb5-8796f1139f54": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.350834,
+        "matrix_size": "19x19"
+    },
+    "4e9f55ba-b5e7-4d56-82b3-357c1d63230a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.073566,
+        "matrix_size": "67x67"
+    },
+    "4ebebe06-fa3b-4ee0-aa8a-6eeaea62b1cd": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.044515,
+        "matrix_size": "11x11"
+    },
+    "4ee6ff1a-1e78-48fd-8e6d-3790d2f2d681": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.795559,
+        "matrix_size": "51x51"
+    },
+    "4f1828c8-0fdf-4cc6-8b88-f2b2259fe2cb": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023332,
+        "matrix_size": "72x72"
+    },
+    "4f5f398f-95ed-4d0e-a031-950e6b37b2ab": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.027186,
+        "matrix_size": "80x80"
+    },
+    "4fc9fec7-22f3-4d44-9fcf-1c755f71a138": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.826378,
+        "matrix_size": "49x49"
+    },
+    "5003c4d3-b46c-4a9b-94c2-248a0786a3aa": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.657435,
+        "matrix_size": "27x27"
+    },
+    "5012d364-8510-4ff0-a634-26c1ae1b91f7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.004172,
+        "matrix_size": "4x4"
+    },
+    "50788c8d-5699-474b-921c-f02c746accff": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.005732,
+        "matrix_size": "5x5"
+    },
+    "50c230b9-198c-46b6-bd16-942520ae8801": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022561,
+        "matrix_size": "72x72"
+    },
+    "511d5a79-8b25-4b89-b133-3b1852480b2d": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.415431,
+        "matrix_size": "55x55"
+    },
+    "51214633-e953-4002-a8d9-c11d533a96ee": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.860956,
+        "matrix_size": "40x40"
+    },
+    "512f355b-f960-4265-b7ac-46a0cfca44d3": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.063346,
+        "matrix_size": "33x33"
+    },
+    "519603d4-ebc9-49c1-82bb-22542414d98f": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023418,
+        "matrix_size": "71x71"
+    },
+    "51a80a4e-819c-4b4b-b84d-1bcf95b68554": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.093239,
+        "matrix_size": "12x12"
+    },
+    "51bdaaa4-a072-4dbc-afb5-1878c3315581": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.074781,
+        "matrix_size": "14x14"
+    },
+    "51ce4c5c-3920-4099-9fad-adf583552324": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.324589,
+        "matrix_size": "46x46"
+    },
+    "51dc6042-8899-4ecb-aa40-de62064b8b57": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.052216,
+        "matrix_size": "71x71"
+    },
+    "52430c6b-140f-427e-b44b-f0fd7b400e26": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.75324,
+        "matrix_size": "38x38"
+    },
+    "52520a2b-b97a-4a6a-a651-e07fe7987a00": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.178264,
+        "matrix_size": "19x19"
+    },
+    "528093e6-7390-4001-a9e7-31bd85b1f9e7": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.815696,
+        "matrix_size": "49x49"
+    },
+    "52954f77-8c1f-4abe-acb1-258aebbb4670": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.987336,
+        "matrix_size": "33x33"
+    },
+    "52b7b9d0-2dd3-454f-bbce-7f3782e66f4f": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022154,
+        "matrix_size": "64x64"
+    },
+    "52bcdea8-6942-45e4-aa18-824c8e7e1f18": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.820804,
+        "matrix_size": "62x62"
+    },
+    "52ce9a24-ac50-45d3-b85c-c28e1c6a71f9": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.784322,
+        "matrix_size": "30x30"
+    },
+    "52eda9a9-6924-4ad1-8f91-6f954131d2f0": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.827524,
+        "matrix_size": "40x40"
+    },
+    "52f74bd3-c123-44ed-b8be-ae390a3a666e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.008542,
+        "matrix_size": "6x6"
+    },
+    "53282cd1-f33a-44de-95ab-17dd8810f29d": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.123977,
+        "matrix_size": "61x61"
+    },
+    "536b1d4b-115f-4412-a6c8-0901682c56d5": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.219289,
+        "matrix_size": "37x37"
+    },
+    "53a0dbc9-1fb0-4fb6-9057-17771aa34b97": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.664724,
+        "matrix_size": "23x23"
+    },
+    "53ca5631-c26a-4e48-882c-50d9cbc46baa": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.752639,
+        "matrix_size": "57x57"
+    },
+    "5416886c-3ffb-406f-be6f-956c1621fa0e": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.625676,
+        "matrix_size": "38x38"
+    },
+    "541d90ac-93b9-48fc-acec-68b4d6813a8c": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.990511,
+        "matrix_size": "33x33"
+    },
+    "5470f164-7332-4057-9333-3fb64416a2bc": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.929902,
+        "matrix_size": "61x61"
+    },
+    "54a5d964-9597-4219-9385-0884e609e098": {
+        "architecture": "CPU",
+        "executionTime_ms": 8.208929,
+        "matrix_size": "63x63"
+    },
+    "54d32d42-1f4d-4561-a8de-09dc75d53b92": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.104773,
+        "matrix_size": "15x15"
+    },
+    "54f4b7ab-6e58-42de-bef5-b4da37c83841": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029727,
+        "matrix_size": "88x88"
+    },
+    "550f5e65-314f-4257-a037-b8aeaf1ff785": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.328385,
+        "matrix_size": "22x22"
+    },
+    "555cb6b6-2cc3-4f19-ad25-47bf854434f1": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.247463,
+        "matrix_size": "42x42"
+    },
+    "55780064-e246-4962-ba49-2d87bd00a3d6": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.922187,
+        "matrix_size": "31x31"
+    },
+    "55b4e349-66af-4581-9e89-27c20563ac46": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.65972,
+        "matrix_size": "37x37"
+    },
+    "5651d889-7d23-4c1b-9014-3dade7103689": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.513708,
+        "matrix_size": "26x26"
+    },
+    "56d6b422-7dc9-4dd4-93e0-2d98e22d3999": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.902967,
+        "matrix_size": "38x38"
+    },
+    "57256b1d-89f3-4876-b34d-3e74e32ad9ee": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029914,
+        "matrix_size": "85x85"
+    },
+    "57451048-4be9-41e0-a665-f01b4b1998ed": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.746728,
+        "matrix_size": "30x30"
+    },
+    "5781b0d4-090a-4e02-8643-0e479ca6325e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.004385,
+        "matrix_size": "4x4"
+    },
+    "5794d856-9977-47d0-9771-b148f985a522": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.008511,
+        "matrix_size": "6x6"
+    },
+    "57a52a1e-e613-4bce-a700-32e398f668ef": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024112,
+        "matrix_size": "79x79"
+    },
+    "583c5904-9878-4c3e-8280-9fec12ba7852": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.790244,
+        "matrix_size": "38x38"
+    },
+    "592e316f-2dcc-409c-a889-c7735731e3ef": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.893224,
+        "matrix_size": "29x29"
+    },
+    "593ef17f-ec66-4e30-ab7a-f3fb42995400": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.041211,
+        "matrix_size": "97x97"
+    },
+    "594105c2-e18a-4ed5-8773-a17af4303daf": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.853573,
+        "matrix_size": "39x39"
+    },
+    "598b16bb-0469-4962-bc8a-55e8fedbee1c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.027991,
+        "matrix_size": "69x69"
+    },
+    "59a5f729-5820-4ee6-8a62-a6b662b66920": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.247557,
+        "matrix_size": "47x47"
+    },
+    "59ab9119-3765-4fa8-a84e-2dfe5215015e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.845169,
+        "matrix_size": "25x25"
+    },
+    "59adfa78-b9ef-4d16-98fa-9dfed11e2cc0": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.813533,
+        "matrix_size": "42x42"
+    },
+    "5a289bcf-25e5-49e0-b763-e55b33146f6c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.03086,
+        "matrix_size": "87x87"
+    },
+    "5a5100b3-977d-4102-a532-d983794766e8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024601,
+        "matrix_size": "73x73"
+    },
+    "5a85c18e-28f2-436f-b2db-12fa5039be5a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.019248,
+        "matrix_size": "8x8"
+    },
+    "5aa00fc4-258f-436b-9ef3-11a0b5079e85": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.209263,
+        "matrix_size": "62x62"
+    },
+    "5af9e8a3-4727-478b-b915-0afbfdcd1782": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.417781,
+        "matrix_size": "36x36"
+    },
+    "5afc6b03-3282-4626-be23-1d2e5971ce42": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.038835,
+        "matrix_size": "96x96"
+    },
+    "5b83277d-44e7-4d39-a2ea-ae6725a7e752": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.036464,
+        "matrix_size": "94x94"
+    },
+    "5c655d92-502d-44ef-bb03-eb7c3d8e3ab1": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.27286,
+        "matrix_size": "21x21"
+    },
+    "5d0164d9-ab2a-4386-a730-8dc83bb69cd8": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.694352,
+        "matrix_size": "52x52"
+    },
+    "5d29a88e-66dc-4974-b31d-2090fbc36cae": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.283257,
+        "matrix_size": "22x22"
+    },
+    "5d474c96-af74-4f1d-a51e-37c860393274": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.359393,
+        "matrix_size": "53x53"
+    },
+    "5d588a3c-39e4-4564-be54-5fe25c743e88": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.447271,
+        "matrix_size": "53x53"
+    },
+    "5da1e4ec-ec54-4cfd-ba16-c0893b4c1755": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.095739,
+        "matrix_size": "14x14"
+    },
+    "5e1d1863-428f-4a9e-aea8-61c77030c3e6": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.037622,
+        "matrix_size": "95x95"
+    },
+    "5e81d12b-8e7c-4107-825c-0c8aab0d2546": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.103951,
+        "matrix_size": "86x86"
+    },
+    "5faa27b9-1882-45d6-ae5d-eabf81e4a5c8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.031809,
+        "matrix_size": "85x85"
+    },
+    "5fef55ef-889b-4147-93f0-db68454fffd2": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.050878,
+        "matrix_size": "92x92"
+    },
+    "600a1068-f328-4d81-b4f7-d0d32d8fddcc": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.004648,
+        "matrix_size": "4x4"
+    },
+    "60e57d63-35a3-4d7e-970e-f20ddf786037": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.855312,
+        "matrix_size": "30x30"
+    },
+    "60fefa55-ebd7-4181-8a35-acef40b00398": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.0247,
+        "matrix_size": "79x79"
+    },
+    "61c2c274-ca63-4d05-aad7-281787be1b93": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.059176,
+        "matrix_size": "95x95"
+    },
+    "62584930-89f8-4642-b207-4602786bb5db": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.050759,
+        "matrix_size": "82x82"
+    },
+    "626092ac-576e-45d0-9fab-dfa18c76f4d1": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.394854,
+        "matrix_size": "23x23"
+    },
+    "62ee3d59-ef2c-427c-8e09-23207297d45f": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.030771,
+        "matrix_size": "85x85"
+    },
+    "63194cd0-797e-477d-b4fe-211526628ec2": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.025814,
+        "matrix_size": "64x64"
+    },
+    "6329e3e2-81ce-4050-8367-29d6085b8973": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.021252,
+        "matrix_size": "65x65"
+    },
+    "636c064d-6c65-4daa-b826-95de5075edb7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.095871,
+        "matrix_size": "14x14"
+    },
+    "63800de9-72e7-4caf-9d08-afc3d7d3d8ac": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.900313,
+        "matrix_size": "60x60"
+    },
+    "638a41bd-dc43-45c9-a8e1-0beb93b45d61": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.035828,
+        "matrix_size": "94x94"
+    },
+    "639d2290-fe6c-4bd7-a4f6-f213da6b5f13": {
+        "architecture": "CPU",
+        "executionTime_ms": 9.046871,
+        "matrix_size": "62x62"
+    },
+    "63df1f1e-a068-45df-8fee-29828d4e126c": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.374998,
+        "matrix_size": "35x35"
+    },
+    "6445b603-3a06-45c3-bf62-586ff613c727": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.526693,
+        "matrix_size": "42x42"
+    },
+    "65013f55-f8be-4972-9fa2-6d398f76e102": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.087476,
+        "matrix_size": "94x94"
+    },
+    "6527623b-a041-47ca-9255-888c44c59b29": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.239926,
+        "matrix_size": "19x19"
+    },
+    "6562e78a-79c7-4063-9ae3-b0f87f110319": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.029081,
+        "matrix_size": "9x9"
+    },
+    "65b4247e-cb42-457b-a162-9704d2c61ec8": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.118506,
+        "matrix_size": "55x55"
+    },
+    "65c0697f-a0fa-47c7-9052-fbd6b15e4be6": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.171677,
+        "matrix_size": "52x52"
+    },
+    "66027b88-994d-4798-b0c8-aa7883ca4965": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.046651,
+        "matrix_size": "11x11"
+    },
+    "6620de13-337b-4ed5-a5b7-917af53922b5": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.474959,
+        "matrix_size": "52x52"
+    },
+    "666f946a-98bd-49fd-9da3-cb377eb3a6b1": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.204212,
+        "matrix_size": "19x19"
+    },
+    "66ad44d9-4339-4465-8d3c-1c3819b780b0": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.177687,
+        "matrix_size": "18x18"
+    },
+    "66c39242-45e6-4b60-a886-2fa8e902480c": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.249304,
+        "matrix_size": "20x20"
+    },
+    "66ce0858-97dd-427a-9d45-3c8ac53feadb": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.039222,
+        "matrix_size": "9x9"
+    },
+    "6739d417-00df-45ce-8171-d1ff8ab5ac72": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.530844,
+        "matrix_size": "35x35"
+    },
+    "6772c758-66bb-4c87-8ead-903d034f33a2": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023,
+        "matrix_size": "72x72"
+    },
+    "677eed91-22a0-4bcb-a2b1-c03ed05381fa": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.625867,
+        "matrix_size": "57x57"
+    },
+    "69e691bd-fa1c-4316-9da4-0d61b7bf5ec7": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.737303,
+        "matrix_size": "41x41"
+    },
+    "6a60033d-b8b3-409b-a52c-83c17b6fc411": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.17118,
+        "matrix_size": "54x54"
+    },
+    "6b2ebbf0-1f9a-48f3-9116-0effc89cf3d7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.718199,
+        "matrix_size": "29x29"
+    },
+    "6b35430d-4791-41a2-a135-20208fccb262": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.046652,
+        "matrix_size": "11x11"
+    },
+    "6b63319d-c563-4529-889c-af6d32838a4b": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.308169,
+        "matrix_size": "33x33"
+    },
+    "6b69c445-affa-4625-acfa-be2911b34772": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022778,
+        "matrix_size": "67x67"
+    },
+    "6b9cdad0-3fe5-4dd6-9bc6-11183baf4347": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.993211,
+        "matrix_size": "32x32"
+    },
+    "6be0cecc-2013-4742-b25e-b0c14b0f9ed0": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.315417,
+        "matrix_size": "22x22"
+    },
+    "6c59d9bc-0fbd-4808-b270-ea01e0915b99": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.206451,
+        "matrix_size": "36x36"
+    },
+    "6c62f99c-e2b8-404b-8fc3-5ddc34bf9eaf": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.196654,
+        "matrix_size": "17x17"
+    },
+    "6ce32577-fec3-43c6-914b-f2c91483ebe1": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.021826,
+        "matrix_size": "64x64"
+    },
+    "6cf1e94f-fdc4-4ed1-bed6-954565068cc9": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.150621,
+        "matrix_size": "33x33"
+    },
+    "6d04c8a5-ab5a-4117-b3e7-c6769a163002": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02174,
+        "matrix_size": "65x65"
+    },
+    "6d73612b-672f-4dfa-bbd3-e175a70732e8": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.006619,
+        "matrix_size": "5x5"
+    },
+    "6d9c644a-ba17-47eb-bbd8-bfdc071df4e1": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029471,
+        "matrix_size": "85x85"
+    },
+    "6da99c22-c399-4699-82d0-80abe8447e90": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.293607,
+        "matrix_size": "52x52"
+    },
+    "6ddcb950-9aa5-4575-9cdb-0a60faa68ca7": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.181727,
+        "matrix_size": "35x35"
+    },
+    "6dee450e-5245-4b8e-84e5-84e7e1b352dc": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.563872,
+        "matrix_size": "37x37"
+    },
+    "6e289e7c-b4d2-40e0-9cc3-a37c9978c26b": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.34647,
+        "matrix_size": "43x43"
+    },
+    "6e33c07f-7197-4341-ac9a-d63990359daf": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.039083,
+        "matrix_size": "65x65"
+    },
+    "6e8c299b-ad44-48e6-9989-534c4b84aa26": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.042302,
+        "matrix_size": "11x11"
+    },
+    "6eb496d3-c59c-41d5-a56e-a9229c349a74": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.064106,
+        "matrix_size": "83x83"
+    },
+    "6ebf6a6e-f13b-4cfe-9e30-c5bbd735f28d": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.005463,
+        "matrix_size": "5x5"
+    },
+    "6ef86ece-30c4-4903-b299-a90ae3f6c0ea": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.030869,
+        "matrix_size": "87x87"
+    },
+    "6f675e30-3830-42e5-a2c5-1873af7ce1fb": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026834,
+        "matrix_size": "82x82"
+    },
+    "6fb3388b-86f6-4553-bc41-99b9d6d5003b": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.664033,
+        "matrix_size": "26x26"
+    },
+    "6fca573a-aa72-477e-9855-d7a5b6967f80": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.644607,
+        "matrix_size": "37x37"
+    },
+    "6ff9edf4-d717-49c2-b817-64339f142a15": {
+        "architecture": "CPU",
+        "executionTime_ms": 9.449877,
+        "matrix_size": "61x61"
+    },
+    "701e3c8e-b09e-4bad-9c9d-939699f17297": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.079834,
+        "matrix_size": "92x92"
+    },
+    "701f67bc-f3f9-416c-a1e8-4d6d6a1d3dc1": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.074664,
+        "matrix_size": "82x82"
+    },
+    "707c4b6b-161d-429f-aee5-27ac8265e621": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.03097,
+        "matrix_size": "66x66"
+    },
+    "7083e1ee-f479-4c29-ad70-0d7c2501ab99": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.960191,
+        "matrix_size": "31x31"
+    },
+    "70f2c41d-7168-4e9a-afea-fde055040521": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.127005,
+        "matrix_size": "41x41"
+    },
+    "71054a9d-c034-4850-9ba2-b361d537d83d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.093987,
+        "matrix_size": "94x94"
+    },
+    "71618765-9610-442f-8c34-ab1d745905d1": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.443007,
+        "matrix_size": "20x20"
+    },
+    "716992d2-2ac3-42e7-b0b0-64e86b807de6": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.911547,
+        "matrix_size": "31x31"
+    },
+    "719b3cfa-ae5a-433f-85f2-873540116280": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.260666,
+        "matrix_size": "21x21"
+    },
+    "71abdf1b-3bc0-4e63-b534-ae7729caf4c1": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.978376,
+        "matrix_size": "40x40"
+    },
+    "71b6bc78-1baf-4983-b780-8d9755232189": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023929,
+        "matrix_size": "79x79"
+    },
+    "71c6febc-0ebc-4b28-8a03-5eec5649006d": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.967362,
+        "matrix_size": "32x32"
+    },
+    "724254ca-bdd9-4cd1-91be-26fe7b9ea230": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.122167,
+        "matrix_size": "16x16"
+    },
+    "7306e7f8-3826-48df-b0c0-c04adac1fcca": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.039279,
+        "matrix_size": "100x100"
+    },
+    "731c293d-4bc1-4c4a-9e4f-916b5bff17fd": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.423869,
+        "matrix_size": "48x48"
+    },
+    "73551045-07d9-4518-9991-327f4f5ef93f": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.754365,
+        "matrix_size": "54x54"
+    },
+    "73b5e258-e6f5-4fef-a510-4b0ad26c9f18": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.052019,
+        "matrix_size": "79x79"
+    },
+    "73f2fa94-8675-47f0-b727-2ecf4d0a996a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.037326,
+        "matrix_size": "94x94"
+    },
+    "7402b55b-6707-4f8a-b9c6-c975787850ef": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.741326,
+        "matrix_size": "48x48"
+    },
+    "7460e725-726c-419f-8f44-1e2a0f71884b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.055433,
+        "matrix_size": "83x83"
+    },
+    "74b7a337-f613-4c13-93fd-2def8c1df762": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.017722,
+        "matrix_size": "8x8"
+    },
+    "74db250a-31d8-4ff0-9f9a-6fe6219e8ab4": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.500553,
+        "matrix_size": "61x61"
+    },
+    "74dc194b-ef40-4f1d-b61f-82bf5022d4ae": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026112,
+        "matrix_size": "82x82"
+    },
+    "75544f59-4351-4ca8-97a9-ada861344f4e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024144,
+        "matrix_size": "69x69"
+    },
+    "75735855-8d19-4f75-bd1d-7924104a9d19": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.806774,
+        "matrix_size": "44x44"
+    },
+    "758124e4-dd1b-4818-9b9e-edac5871d616": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.146055,
+        "matrix_size": "32x32"
+    },
+    "75976fbb-4e92-4064-a88f-57609c952c46": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.833303,
+        "matrix_size": "40x40"
+    },
+    "75d98ae5-547e-4697-bf14-bdb7a0b0cb80": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023384,
+        "matrix_size": "68x68"
+    },
+    "7674f4e9-57f1-49ac-b5dc-58773761c54e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022916,
+        "matrix_size": "65x65"
+    },
+    "767ba65f-8b08-48b6-bbb1-e4362a4fe94f": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.589094,
+        "matrix_size": "23x23"
+    },
+    "76e4bab3-2ece-4bc0-91dc-7b876a417a58": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.043802,
+        "matrix_size": "74x74"
+    },
+    "76eca058-4d87-4874-a783-55f447a6e1a8": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.993252,
+        "matrix_size": "50x50"
+    },
+    "76f53bcf-7db2-484a-b748-0da730a4b86f": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022403,
+        "matrix_size": "65x65"
+    },
+    "770d920a-ec08-49b7-8c97-0ecb9bab25a9": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029873,
+        "matrix_size": "88x88"
+    },
+    "774b7a3c-a01a-4535-a9b1-15153a2f2bba": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.025061,
+        "matrix_size": "75x75"
+    },
+    "77ecc758-90d8-4fab-a726-f046b819ba5f": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.5456,
+        "matrix_size": "55x55"
+    },
+    "77f05933-79e2-4e84-b385-faed997c7e8a": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.650162,
+        "matrix_size": "44x44"
+    },
+    "7854a076-f163-4afc-9279-4fa6206b2571": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.078631,
+        "matrix_size": "70x70"
+    },
+    "798a8841-6b8f-479c-9b6f-79e1278189e9": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.409884,
+        "matrix_size": "44x44"
+    },
+    "79d7b4aa-ff4e-43c1-97c4-ff382fa38b64": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.069493,
+        "matrix_size": "65x65"
+    },
+    "7a491d0b-cbf5-453c-aef5-14d21242ea2a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.071936,
+        "matrix_size": "99x99"
+    },
+    "7a62baa4-e286-4ffc-9ef8-90c1d6f72224": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.025811,
+        "matrix_size": "81x81"
+    },
+    "7a86b74b-6007-4b34-b9df-542de41e339e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023927,
+        "matrix_size": "74x74"
+    },
+    "7a8d13fc-1342-4511-8e2b-eba5c5945fa2": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.779085,
+        "matrix_size": "60x60"
+    },
+    "7aaa1c6e-35ce-4b78-a109-9776fa1d4ee7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.423993,
+        "matrix_size": "24x24"
+    },
+    "7b0a1a6d-9948-4aa1-bd79-da70ad80f215": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.097389,
+        "matrix_size": "97x97"
+    },
+    "7bc10629-7dcc-4ad6-bea2-d40031de2ed7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.357805,
+        "matrix_size": "21x21"
+    },
+    "7c0ee1ac-3dd2-469e-bcaf-11fce2c0f7ad": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.037847,
+        "matrix_size": "92x92"
+    },
+    "7c34470d-2d97-4bfc-be61-8faa4d0e11b2": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.091571,
+        "matrix_size": "13x13"
+    },
+    "7c940c51-f076-4739-bbec-e6e27f2b22c0": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.567137,
+        "matrix_size": "54x54"
+    },
+    "7ceea28d-39db-4b8c-826f-c44c2e18068c": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.423923,
+        "matrix_size": "24x24"
+    },
+    "7d64db28-7890-4278-9ea2-825a1a665554": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.003194,
+        "matrix_size": "3x3"
+    },
+    "7d69e35c-081f-455d-a457-d6dee982ef8e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024814,
+        "matrix_size": "71x71"
+    },
+    "7dcb8dbd-93a4-471f-8bc0-8b9dafe28c53": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.033357,
+        "matrix_size": "90x90"
+    },
+    "7dceca31-002c-439b-a351-637f761196b6": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.002854,
+        "matrix_size": "3x3"
+    },
+    "7e01d682-7792-4e19-b9ba-a299e9356a6c": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.02882,
+        "matrix_size": "9x9"
+    },
+    "7e02b8f0-c366-4b00-807d-c7541ea3ae2e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023658,
+        "matrix_size": "75x75"
+    },
+    "7e06e747-d2a7-4a3f-bb6d-25ee9b193ab0": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.395698,
+        "matrix_size": "23x23"
+    },
+    "7e2360d5-29a4-444d-a267-2e4df3f3539b": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.807294,
+        "matrix_size": "29x29"
+    },
+    "7ea1f1c8-4406-4c85-bf2e-e3844c462fd7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.187966,
+        "matrix_size": "13x13"
+    },
+    "7ed4d359-3b44-4789-8903-e06a70a02499": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.04561,
+        "matrix_size": "99x99"
+    },
+    "7f8e4507-d918-4cb1-aeab-16b3978abc12": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.050984,
+        "matrix_size": "69x69"
+    },
+    "7fcd474a-b9f3-458e-ac44-b122c8e4da28": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.038854,
+        "matrix_size": "89x89"
+    },
+    "7ff98039-a5ef-4848-b4ad-e9c77f8ad9ab": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.708596,
+        "matrix_size": "28x28"
+    },
+    "800d8da8-353a-45bd-b186-9c70e6ae8b8d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.030459,
+        "matrix_size": "88x88"
+    },
+    "80437710-0947-4ce2-aece-25d7d65bc214": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.180815,
+        "matrix_size": "96x96"
+    },
+    "80663d71-58c2-44fe-a613-887441b18d6f": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.151736,
+        "matrix_size": "33x33"
+    },
+    "8066c65b-27de-4bab-a921-0447426329e3": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.014106,
+        "matrix_size": "5x5"
+    },
+    "808a49f5-25e4-4e74-a701-3a214a791dbb": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.370029,
+        "matrix_size": "23x23"
+    },
+    "808b1ea6-be28-42d6-940b-4f23b3baa7bf": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.164344,
+        "matrix_size": "77x77"
+    },
+    "809ca7ff-dbf7-4a4f-b067-42edcd1a242e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.38379,
+        "matrix_size": "24x24"
+    },
+    "81232d04-7d0b-4cb6-9da9-323bea86f9bb": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.23493,
+        "matrix_size": "59x59"
+    },
+    "813aab68-c92a-4914-bdc8-c59fe8a6029e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.034762,
+        "matrix_size": "10x10"
+    },
+    "81deb9d3-683b-4ed7-8d22-048bbe91b99b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.021336,
+        "matrix_size": "64x64"
+    },
+    "823f729c-3606-43c9-8110-fb57f78b626c": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.446293,
+        "matrix_size": "21x21"
+    },
+    "82bdab0e-e35c-445f-99c6-858c43cff85a": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.306956,
+        "matrix_size": "47x47"
+    },
+    "82dd5f5d-2460-4998-90a5-9cbeb42bcd42": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.849836,
+        "matrix_size": "49x49"
+    },
+    "834bc7e0-ae53-4999-b879-6662d97b4f9b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029887,
+        "matrix_size": "72x72"
+    },
+    "838360d5-153d-44d3-9545-72b7c9578c8a": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.679246,
+        "matrix_size": "42x42"
+    },
+    "83bdac9c-f806-4a8b-9b8e-52d4c3c3cb73": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.291229,
+        "matrix_size": "21x21"
+    },
+    "83c4ea50-89ca-4c46-89dc-a843596e11a7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.164183,
+        "matrix_size": "13x13"
+    },
+    "840c0c4b-063f-4d64-a016-9ea8dd629cc4": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.797077,
+        "matrix_size": "39x39"
+    },
+    "845285b1-3ebf-4aef-9fb4-7d5612b00539": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.016029,
+        "matrix_size": "7x7"
+    },
+    "8548b3dc-e2ae-4d0c-a042-dcc237ee01f9": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.046555,
+        "matrix_size": "73x73"
+    },
+    "862cf58a-b2c9-4227-9793-a07db8d46c86": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.030134,
+        "matrix_size": "87x87"
+    },
+    "86316bc7-2046-4341-8a39-46567915e63e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.030161,
+        "matrix_size": "87x87"
+    },
+    "864e0fe0-b4ed-457b-b861-47758e0f30ff": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.028956,
+        "matrix_size": "84x84"
+    },
+    "86e5893b-1c2d-49fa-aed8-4f9e7ac4cdbd": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.544933,
+        "matrix_size": "42x42"
+    },
+    "86ef050a-0612-4263-8e9f-2297b465f898": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.034884,
+        "matrix_size": "91x91"
+    },
+    "86fa3612-c95d-47f4-be06-1d91f8fcb96f": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.896809,
+        "matrix_size": "30x30"
+    },
+    "870956dd-3e79-4125-ad1c-5d917f204029": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.099761,
+        "matrix_size": "71x71"
+    },
+    "877f7c5e-084c-4e1e-993f-3bf22e67930f": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026303,
+        "matrix_size": "81x81"
+    },
+    "87abb90f-7e46-41cc-9ebb-f7e3d3811348": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.412857,
+        "matrix_size": "54x54"
+    },
+    "87b15f44-2601-4b68-99f6-43af3150c4a0": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.738498,
+        "matrix_size": "43x43"
+    },
+    "87da179f-0805-485e-aab2-1f2bc5db4496": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022691,
+        "matrix_size": "67x67"
+    },
+    "87dadbbf-6a00-4037-813f-add9351f4e21": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.232389,
+        "matrix_size": "37x37"
+    },
+    "87e6b330-ce3c-401a-84ca-53340808df20": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.258671,
+        "matrix_size": "19x19"
+    },
+    "886eb2bd-9c2f-47b5-a3af-ee3545da5276": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.421559,
+        "matrix_size": "59x59"
+    },
+    "892fb197-e726-4701-ab37-d01be3fd8686": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.443112,
+        "matrix_size": "64x64"
+    },
+    "89a923a8-ea0e-46eb-ae4e-9e03c74483f1": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.206502,
+        "matrix_size": "17x17"
+    },
+    "89bc5898-41f7-41e2-a100-2c2294437a12": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.520771,
+        "matrix_size": "49x49"
+    },
+    "89f20e56-ae74-4648-b3d1-27bece442c7e": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.354843,
+        "matrix_size": "46x46"
+    },
+    "8a02874d-5635-4bbc-84f2-49ab34a078c3": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.534582,
+        "matrix_size": "40x40"
+    },
+    "8a6e313e-5fcd-4361-8d33-b115491e7bc5": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.543403,
+        "matrix_size": "37x37"
+    },
+    "8ad9ce34-9711-4885-8eca-8f558c0935c4": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.034551,
+        "matrix_size": "10x10"
+    },
+    "8af7a5c4-8785-4bbe-9406-73a6a23cf61e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.061674,
+        "matrix_size": "83x83"
+    },
+    "8b4c1a0e-98ff-43cf-ae9c-43abcb6cefe8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.032532,
+        "matrix_size": "90x90"
+    },
+    "8b5254eb-8d2b-4a16-b9f3-5e618797bdf4": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.484082,
+        "matrix_size": "37x37"
+    },
+    "8b61fcad-036f-46e0-9525-bf7c7dec0adf": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.845784,
+        "matrix_size": "51x51"
+    },
+    "8b77042e-84d1-4bbf-87a3-58b87a2e0a37": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.03264,
+        "matrix_size": "89x89"
+    },
+    "8baeb5cc-218f-44a9-b639-58083dca5d2c": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.696444,
+        "matrix_size": "49x49"
+    },
+    "8bcd062f-a114-43e2-ab19-24d09b0ce31f": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.081662,
+        "matrix_size": "53x53"
+    },
+    "8be488fb-dcfe-4f32-91c2-11120b056bc1": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.62524,
+        "matrix_size": "53x53"
+    },
+    "8c26e26e-fd07-4e73-884e-f9f20572e9cf": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.334941,
+        "matrix_size": "50x50"
+    },
+    "8c34a5c1-3ddb-4804-bf11-2ad14404d58a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.004865,
+        "matrix_size": "4x4"
+    },
+    "8c7d89d1-a160-44fc-a8f7-f1bcdd9ac06e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.069437,
+        "matrix_size": "94x94"
+    },
+    "8ccf03e9-04c7-41ee-bf0b-7fe36cb9d6a4": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.943967,
+        "matrix_size": "38x38"
+    },
+    "8cf50016-53a2-4efd-aed1-f324145b9bd7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.743452,
+        "matrix_size": "29x29"
+    },
+    "8d295636-deb7-4b2f-9470-3966f2524ecf": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.034232,
+        "matrix_size": "39x39"
+    },
+    "8d3302b7-b29b-4b09-a53d-652fbdb1fc3c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.126321,
+        "matrix_size": "96x96"
+    },
+    "8de6f32d-a717-443e-b97a-622cf907efcb": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.025775,
+        "matrix_size": "9x9"
+    },
+    "8e0d1ff8-60fd-4860-b51e-e3b6b53b200e": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.596592,
+        "matrix_size": "56x56"
+    },
+    "8eb62625-e5d2-4b75-8f26-5e174f8752ef": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.184956,
+        "matrix_size": "18x18"
+    },
+    "8ec776df-9d04-4a1f-9a09-bc3edb21ed42": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.467404,
+        "matrix_size": "36x36"
+    },
+    "8efaffd0-6839-4c87-ade5-515cf7ae2a9b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.028594,
+        "matrix_size": "69x69"
+    },
+    "8f50a90f-ae96-4b6b-a35a-72008ef31bac": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.763031,
+        "matrix_size": "35x35"
+    },
+    "8f578af1-e2f6-4233-9182-9c582c232201": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.523008,
+        "matrix_size": "42x42"
+    },
+    "8f8a013f-1e5d-419d-9b08-4e736ab49dc0": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.137621,
+        "matrix_size": "14x14"
+    },
+    "8fdf793e-dbd3-4437-b04a-1fff86dc453d": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.123131,
+        "matrix_size": "42x42"
+    },
+    "8ff22fa9-03a1-4bad-9284-5733b16ad56b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.028211,
+        "matrix_size": "83x83"
+    },
+    "901c538b-e20f-47fb-bf55-1124c579f241": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.342928,
+        "matrix_size": "41x41"
+    },
+    "901f8573-3c3d-4f87-b0b2-3250d602691d": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.921253,
+        "matrix_size": "32x32"
+    },
+    "908be1b2-e4c6-4e2a-9066-8ed1a5e827f2": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.310797,
+        "matrix_size": "17x17"
+    },
+    "909a6fca-c0e4-4a8b-8926-73ce56ae8d71": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02287,
+        "matrix_size": "72x72"
+    },
+    "913dc709-54fb-46bb-8c1a-253c50cfc0ec": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.073961,
+        "matrix_size": "54x54"
+    },
+    "91e6ee35-c72f-4c0b-bf2c-6d25e72b070a": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.12578,
+        "matrix_size": "42x42"
+    },
+    "9252096a-731f-4c4c-a6c1-de0f632095c0": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.422961,
+        "matrix_size": "91x91"
+    },
+    "927e805e-e286-418c-b6e0-64b38b427296": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.025796,
+        "matrix_size": "9x9"
+    },
+    "9285c93f-7eb2-4cfe-8093-36586cc2d311": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.050081,
+        "matrix_size": "94x94"
+    },
+    "9298c9b2-b5d9-4c36-99c0-eb870314bc8d": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.3284,
+        "matrix_size": "62x62"
+    },
+    "92a84a37-6ec4-4a3b-a08e-09f219d92033": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.038733,
+        "matrix_size": "95x95"
+    },
+    "93084e2e-f1b1-46a1-8a74-e12ae75b3a40": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.500799,
+        "matrix_size": "58x58"
+    },
+    "93149468-9db4-491c-b6c4-89ac613337ca": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.408884,
+        "matrix_size": "23x23"
+    },
+    "93267e9e-6da6-4e86-b257-1f247da3f890": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.380443,
+        "matrix_size": "57x57"
+    },
+    "93785f31-ec84-478b-be86-65b99a140eb9": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029123,
+        "matrix_size": "86x86"
+    },
+    "938f33f0-ae07-4b96-9efd-38e0fbc6ee5f": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.18369,
+        "matrix_size": "61x61"
+    },
+    "93bec28f-45ec-4c4d-984d-e1e8c9b28b8e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.345495,
+        "matrix_size": "23x23"
+    },
+    "941a2a04-686a-41d1-ae38-6fdba8937b25": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.133604,
+        "matrix_size": "56x56"
+    },
+    "94875776-5077-4898-ae53-6494a283b87c": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.248279,
+        "matrix_size": "43x43"
+    },
+    "94b7acbe-fafe-4a25-a77a-5211d780890a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.021801,
+        "matrix_size": "69x69"
+    },
+    "95b8183e-f6bf-47cd-bd85-4e466eef72ed": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.634965,
+        "matrix_size": "52x52"
+    },
+    "964a852f-f60b-4c37-bec9-d374feda455a": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.779856,
+        "matrix_size": "51x51"
+    },
+    "9672b7ec-7bb9-4689-88f0-69bd4a938249": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026163,
+        "matrix_size": "73x73"
+    },
+    "96bc5270-7673-48f3-adc0-14343064ab82": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022448,
+        "matrix_size": "70x70"
+    },
+    "96d2d1a6-f3a8-4933-9c8d-d0c030652837": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.092558,
+        "matrix_size": "76x76"
+    },
+    "96fd3fec-3a04-48df-94db-853e37bce1c3": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026609,
+        "matrix_size": "73x73"
+    },
+    "971349f9-b95d-43e5-a6ce-bb5a6569db8f": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.452733,
+        "matrix_size": "20x20"
+    },
+    "9716d0ba-2e20-4900-b945-6db3d70d9a7c": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.221112,
+        "matrix_size": "52x52"
+    },
+    "971b20da-41ad-468a-a052-5463b52f48e1": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.947459,
+        "matrix_size": "32x32"
+    },
+    "9723dc1e-f3db-4747-8334-11ba9261fc33": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.781086,
+        "matrix_size": "27x27"
+    },
+    "979866a6-1ba4-4a73-9636-d2aca7a77b11": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02672,
+        "matrix_size": "82x82"
+    },
+    "97aac005-5c95-4e66-9c4f-3c63cea0be2b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.033349,
+        "matrix_size": "90x90"
+    },
+    "97c14ea0-a69a-4264-99ed-d41ac485da2d": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.564273,
+        "matrix_size": "37x37"
+    },
+    "97cb16ce-aed7-4cf4-bb9b-04eb7ff559ae": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.495555,
+        "matrix_size": "57x57"
+    },
+    "97d3a48d-7704-47e4-9f9a-b66b9c4e63b3": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022473,
+        "matrix_size": "70x70"
+    },
+    "98173bf8-6706-4c47-a629-6fce7c161231": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.916749,
+        "matrix_size": "32x32"
+    },
+    "98374250-99dc-42fd-b222-7248ec20def7": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.349128,
+        "matrix_size": "43x43"
+    },
+    "989f414d-68ce-46e0-a2bb-ffe1caa85a24": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.123289,
+        "matrix_size": "91x91"
+    },
+    "98d08ba9-6ecc-4ff7-a813-4c33f8e57e9a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.106038,
+        "matrix_size": "15x15"
+    },
+    "99706943-713d-4763-92b1-841628765fdd": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.287949,
+        "matrix_size": "18x18"
+    },
+    "99d91ee3-b0a1-4336-a2a8-41e83512f505": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022061,
+        "matrix_size": "65x65"
+    },
+    "9a234fe6-fd44-462f-9076-c826dbe38f43": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.189636,
+        "matrix_size": "14x14"
+    },
+    "9a9b338b-930e-4923-9241-907368d9f754": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02448,
+        "matrix_size": "79x79"
+    },
+    "9afa28cb-1a61-4b43-847f-dd89070fb30b": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.446177,
+        "matrix_size": "59x59"
+    },
+    "9aff6e42-ecb2-4fc8-99cf-c46ba13d07e4": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.690628,
+        "matrix_size": "55x55"
+    },
+    "9b174366-af05-4e90-ac2f-6d81345148b1": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.036509,
+        "matrix_size": "93x93"
+    },
+    "9b41927f-fadd-4dec-9adb-6ce16a452e93": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.262461,
+        "matrix_size": "41x41"
+    },
+    "9b4288bc-d526-449f-9837-4165bd48d16a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.40341,
+        "matrix_size": "23x23"
+    },
+    "9bbfdc84-8bce-4d4b-94e5-65aa9b133d3c": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.771211,
+        "matrix_size": "45x45"
+    },
+    "9bd51b3c-4a70-4d83-9634-76f7047ee548": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.632321,
+        "matrix_size": "24x24"
+    },
+    "9c225740-9e71-49b7-b582-f607c97daaf1": {
+        "architecture": "CPU",
+        "executionTime_ms": 8.45825,
+        "matrix_size": "63x63"
+    },
+    "9c25bf96-87fc-4bf2-ad66-42c218dd1039": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.062468,
+        "matrix_size": "12x12"
+    },
+    "9c3b84da-7338-421d-a61e-e561d7edc570": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.027419,
+        "matrix_size": "67x67"
+    },
+    "9c869676-c820-4d7f-b0b7-9ba751105511": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.033988,
+        "matrix_size": "65x65"
+    },
+    "9c8f5fa7-b76a-48de-bf65-f9723ac63f6f": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.055174,
+        "matrix_size": "91x91"
+    },
+    "9cdc6bea-28ba-4346-be5f-b02017fe2c20": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026846,
+        "matrix_size": "72x72"
+    },
+    "9d7c3e15-fbec-4249-9cce-60b2674ec21d": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.008154,
+        "matrix_size": "4x4"
+    },
+    "9d7cc16d-4cc8-47b0-b576-fb62b0ffb489": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.095892,
+        "matrix_size": "14x14"
+    },
+    "9daa9114-de8d-4e1f-8e83-74b6b19e723e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.078791,
+        "matrix_size": "99x99"
+    },
+    "9ddb0243-9b02-4d9e-8efc-5472fca1f1dd": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.086434,
+        "matrix_size": "14x14"
+    },
+    "9e29def4-352c-4fbd-8662-ec08757d24d3": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.371537,
+        "matrix_size": "57x57"
+    },
+    "9ec42e1c-3d46-4472-98d3-d36f84886f93": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02218,
+        "matrix_size": "70x70"
+    },
+    "9eed8905-9c88-4f0a-870d-532f7fdeccea": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024755,
+        "matrix_size": "78x78"
+    },
+    "9f5bda8d-8c0d-4ac8-a522-63bfec99af0c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.028363,
+        "matrix_size": "85x85"
+    },
+    "9f8b7576-0baf-4127-972a-49530ab31441": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.665549,
+        "matrix_size": "41x41"
+    },
+    "9fac99c9-1e66-498d-be9c-e5f0911c7942": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.612348,
+        "matrix_size": "51x51"
+    },
+    "9fbc9ccb-f915-4588-abaf-e1830893dff0": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.039735,
+        "matrix_size": "45x45"
+    },
+    "9fd668e1-d682-4c36-8b49-5986a1ece6b3": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.531602,
+        "matrix_size": "26x26"
+    },
+    "a00bed7a-ec4c-4318-9ea6-bfddd17c2cfb": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.027093,
+        "matrix_size": "83x83"
+    },
+    "a07ac69a-8d8e-4ca4-badb-dae663ee7b7a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.042053,
+        "matrix_size": "11x11"
+    },
+    "a0af96e8-89cb-438a-8ffe-37405f524519": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029084,
+        "matrix_size": "86x86"
+    },
+    "a0bab9e9-3758-4905-9d6d-0b03f6381501": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.496114,
+        "matrix_size": "44x44"
+    },
+    "a1004210-ec45-4f04-b497-bb23a4b0b51e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.028668,
+        "matrix_size": "82x82"
+    },
+    "a122de04-83a0-4dba-80e0-d286909007ae": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.500748,
+        "matrix_size": "38x38"
+    },
+    "a18aa6f9-7b2d-4291-8ac6-bbe8c5a173b3": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.340987,
+        "matrix_size": "23x23"
+    },
+    "a1b42155-42ce-4317-96fa-6443d4b2d5e9": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.038342,
+        "matrix_size": "98x98"
+    },
+    "a1f4bcf1-1aab-4101-9511-fe03fd8df92f": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.196324,
+        "matrix_size": "18x18"
+    },
+    "a20875fa-ca21-4b4b-af83-4d1138980fdb": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024771,
+        "matrix_size": "73x73"
+    },
+    "a24f8246-a93f-492d-9f25-f1ec9e7ba6d8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.028269,
+        "matrix_size": "70x70"
+    },
+    "a256abbe-bef0-42a2-8885-5087efbb96ec": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.100599,
+        "matrix_size": "54x54"
+    },
+    "a2e43ba3-4f78-4e5b-8093-84482b3fcff8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.107113,
+        "matrix_size": "74x74"
+    },
+    "a30669c5-4161-4396-acd2-23fd851243b0": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.079581,
+        "matrix_size": "93x93"
+    },
+    "a3782785-455e-4775-876d-086d474bbfc9": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.164972,
+        "matrix_size": "17x17"
+    },
+    "a39ad020-123e-4103-8b13-65a88378340d": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.009645,
+        "matrix_size": "32x32"
+    },
+    "a3d486ab-6269-4e7c-9674-ad26da604006": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.130288,
+        "matrix_size": "32x32"
+    },
+    "a3f7206f-f386-4e93-89ac-26edc2fa66d5": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.832455,
+        "matrix_size": "49x49"
+    },
+    "a438bd7c-8d43-4f32-8da6-db7cbbd587ba": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.031628,
+        "matrix_size": "85x85"
+    },
+    "a4478642-be1e-4bfa-8c80-7fdf83fe45e6": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.088351,
+        "matrix_size": "52x52"
+    },
+    "a46ff5c7-7596-4a1b-96a6-6837b12ce27f": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.761963,
+        "matrix_size": "54x54"
+    },
+    "a4c415e1-9d33-4e32-8278-dcb44aa98baf": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026992,
+        "matrix_size": "81x81"
+    },
+    "a55fd3d2-9769-4096-a4e7-28e2da84c8ee": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.279032,
+        "matrix_size": "19x19"
+    },
+    "a578a52a-bdb0-496f-b008-3c85adaa5408": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.224636,
+        "matrix_size": "100x100"
+    },
+    "a5d62340-1171-4567-b4b7-37017f1fee2b": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.312375,
+        "matrix_size": "30x30"
+    },
+    "a66a5950-7bb3-43a1-ad40-6769d1cfa9ba": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.037377,
+        "matrix_size": "94x94"
+    },
+    "a67a7877-2f1e-42d0-adc8-d8ad6c1a665e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.057279,
+        "matrix_size": "86x86"
+    },
+    "a692230d-eda6-460f-b925-d11e84b4995a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.040829,
+        "matrix_size": "72x72"
+    },
+    "a71b80bc-5d59-417a-85fc-6d6688e3cc16": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.098096,
+        "matrix_size": "75x75"
+    },
+    "a79e83b0-faf1-4c51-90ae-f236745aa7ca": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.583616,
+        "matrix_size": "45x45"
+    },
+    "a7a2250a-4f4f-4248-80d0-54b7adc9e432": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.017425,
+        "matrix_size": "42x42"
+    },
+    "a7ba427e-f4af-49f1-a760-21ed401e80f8": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.295793,
+        "matrix_size": "52x52"
+    },
+    "a80a2e35-d7c4-4a68-aa73-274d3dabbf7f": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.048937,
+        "matrix_size": "11x11"
+    },
+    "a8567900-8988-4081-a01a-7de8e6bc3300": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.039795,
+        "matrix_size": "95x95"
+    },
+    "a90ca9af-c01b-4ce6-8d58-710103515595": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.030349,
+        "matrix_size": "75x75"
+    },
+    "a93ee247-574b-42e8-9981-0b681825a14b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.591763,
+        "matrix_size": "95x95"
+    },
+    "a9620537-ba3b-49a5-b31e-1bec2c06a3f8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.268872,
+        "matrix_size": "92x92"
+    },
+    "a9d8d81e-087d-4f65-85f0-2a7c901461b7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.642361,
+        "matrix_size": "28x28"
+    },
+    "aa4f28f2-5335-4986-a3b7-9288a96bca20": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.980665,
+        "matrix_size": "43x43"
+    },
+    "aa9fef49-3185-4cca-9df2-9614d05a88be": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.177818,
+        "matrix_size": "32x32"
+    },
+    "ab7604c0-94f8-465a-bd62-1d625d226db0": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.039699,
+        "matrix_size": "94x94"
+    },
+    "abb82e20-f28c-428b-aebf-7d0c84900b97": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.456278,
+        "matrix_size": "58x58"
+    },
+    "ac4c1e6d-2834-418b-a6d1-3ab4bc36e7d8": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.002122,
+        "matrix_size": "2x2"
+    },
+    "ac5d3326-5895-4df4-8d25-a1fa815ab192": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.580491,
+        "matrix_size": "39x39"
+    },
+    "acefd24c-2073-4dca-8cc9-14da40d9afdb": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.17319,
+        "matrix_size": "60x60"
+    },
+    "ad363ccf-3af5-45f5-8ca2-d08659272977": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.326926,
+        "matrix_size": "54x54"
+    },
+    "adb90f2a-5091-4556-ae7c-955cd675e325": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.040157,
+        "matrix_size": "93x93"
+    },
+    "ade9261c-e941-493f-bf7d-865ed2ad9836": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.151439,
+        "matrix_size": "16x16"
+    },
+    "ae2aa461-5108-44fc-9603-c6e916d9a579": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.225677,
+        "matrix_size": "17x17"
+    },
+    "ae90a784-9e82-4a6b-8149-90a4157d855d": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.959902,
+        "matrix_size": "55x55"
+    },
+    "af0628a5-de5a-4eaa-a03b-a0f21aae3dd4": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.297384,
+        "matrix_size": "47x47"
+    },
+    "af073d0e-b596-492e-9278-4ff487f189ee": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.355326,
+        "matrix_size": "42x42"
+    },
+    "af14a618-ddd2-49cd-8ab7-e0826fd3bdde": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.762898,
+        "matrix_size": "36x36"
+    },
+    "af1fffaf-cdab-496d-849f-8f4a812cce6c": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.353594,
+        "matrix_size": "47x47"
+    },
+    "af4632fd-9559-4b21-8d47-f5e567eae149": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.561866,
+        "matrix_size": "59x59"
+    },
+    "afc787b3-b0c3-4826-8acc-9195a103237d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.218883,
+        "matrix_size": "97x97"
+    },
+    "b002f892-66e7-4ddc-97eb-e3199b911415": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.035361,
+        "matrix_size": "91x91"
+    },
+    "b0364724-a2c4-4ae4-9bb5-5cccd01243c5": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029913,
+        "matrix_size": "85x85"
+    },
+    "b0b52b84-3f10-4a32-81a9-0e9ca31d79f5": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029879,
+        "matrix_size": "82x82"
+    },
+    "b0f57a80-c560-41b0-9658-149fee1d8e67": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.735419,
+        "matrix_size": "44x44"
+    },
+    "b19937d8-3084-4e42-ab17-eab77663ed2e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.581104,
+        "matrix_size": "26x26"
+    },
+    "b1a35a83-821c-4a81-a966-34efecc5f65a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024976,
+        "matrix_size": "78x78"
+    },
+    "b1ac14cd-74cf-467b-b544-1a104d631e2d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023864,
+        "matrix_size": "74x74"
+    },
+    "b1ba3700-676a-45d9-a1cb-05db5c98f6dc": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023663,
+        "matrix_size": "78x78"
+    },
+    "b2853666-fff3-43b9-adac-601bdc8a3d0d": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.172057,
+        "matrix_size": "56x56"
+    },
+    "b2b627c2-da6d-4893-8ed7-913f31195961": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.150333,
+        "matrix_size": "33x33"
+    },
+    "b31fb4d2-ea4d-46cf-9d71-8085c38c83d9": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.66935,
+        "matrix_size": "26x26"
+    },
+    "b39cf4d0-61a6-4d77-b955-983229ce5951": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.062593,
+        "matrix_size": "12x12"
+    },
+    "b3b3724d-b6bd-41b2-ab4e-572675dca44d": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.004463,
+        "matrix_size": "4x4"
+    },
+    "b3c87bd3-2bb2-4940-9a53-d1ff6529ed77": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.030773,
+        "matrix_size": "82x82"
+    },
+    "b4394a65-6d9c-4444-9e4e-2fdab929287d": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.22449,
+        "matrix_size": "36x36"
+    },
+    "b43aca3a-aa26-4ea3-ac97-ec80ef77ef01": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.071737,
+        "matrix_size": "65x65"
+    },
+    "b4771e58-2b71-4766-bb68-6f8d7b9360c4": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.060361,
+        "matrix_size": "80x80"
+    },
+    "b4882613-706e-4c5c-b33d-b8c611a63165": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.039447,
+        "matrix_size": "99x99"
+    },
+    "b5120c75-ea9c-413a-a3d4-d837dfd282d6": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.458048,
+        "matrix_size": "44x44"
+    },
+    "b5144013-ca78-45fd-935f-3e3b5f42cc6f": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.007136,
+        "matrix_size": "5x5"
+    },
+    "b5179edc-3d0a-43ca-9566-1df822caac1c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024908,
+        "matrix_size": "72x72"
+    },
+    "b52e0a63-1b7b-47e2-b5f1-6ba7cd6ada68": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.824805,
+        "matrix_size": "38x38"
+    },
+    "b5498206-7c5c-4ee4-bbd0-c3c92726e739": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.043408,
+        "matrix_size": "100x100"
+    },
+    "b567c644-e3e9-4c07-b22a-632f373493b7": {
+        "architecture": "CPU",
+        "executionTime_ms": 9.350781,
+        "matrix_size": "61x61"
+    },
+    "b58b8a8a-0751-4da3-9eb7-42555d11c08e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.005599,
+        "matrix_size": "5x5"
+    },
+    "b593beda-9bd1-4158-9da9-09b78cf7acde": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.379352,
+        "matrix_size": "49x49"
+    },
+    "b5db2be1-f6f2-41d4-89e1-a53c73918f8d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024165,
+        "matrix_size": "74x74"
+    },
+    "b686f075-9e80-4e6b-8a3b-42bec98fcb12": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.028776,
+        "matrix_size": "73x73"
+    },
+    "b6c5a2b5-c177-4984-853d-ca794320ef39": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.218857,
+        "matrix_size": "34x34"
+    },
+    "b727be2b-08d1-4c02-bd89-d1a85a538261": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.158357,
+        "matrix_size": "40x40"
+    },
+    "b758af75-989e-48c1-a39a-07cdcb446493": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.05626,
+        "matrix_size": "12x12"
+    },
+    "b8c76b25-7ce0-483a-86b9-cca340befd68": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.166455,
+        "matrix_size": "17x17"
+    },
+    "b921a135-3856-4aa9-b00d-9efb4010cf3b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023008,
+        "matrix_size": "73x73"
+    },
+    "b9729365-aebb-40ef-84cc-84930161808e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.043838,
+        "matrix_size": "99x99"
+    },
+    "b9811b9a-d7b3-4d6c-92b8-e8482c41c703": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.624888,
+        "matrix_size": "39x39"
+    },
+    "bab8989f-39cb-43bc-bffc-01fe1626cafd": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.056312,
+        "matrix_size": "12x12"
+    },
+    "bae38343-da69-488f-8faf-9ed5a6dfe993": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022923,
+        "matrix_size": "69x69"
+    },
+    "baea0645-966a-4339-a7d8-c86900acc25b": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.171628,
+        "matrix_size": "16x16"
+    },
+    "baf86229-0db7-4ed5-a59b-76802bb3b4ee": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.386142,
+        "matrix_size": "20x20"
+    },
+    "bb86d5ac-03eb-4115-ab41-1ae516d48b96": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.014192,
+        "matrix_size": "7x7"
+    },
+    "bbb5ffae-a48b-4706-8838-2d6991b9db02": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.112785,
+        "matrix_size": "54x54"
+    },
+    "bbf2a326-b9fc-4089-b724-bb403d82794b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.097201,
+        "matrix_size": "90x90"
+    },
+    "bbfd64be-d965-4e97-bd51-3c0fd2df6634": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.566211,
+        "matrix_size": "52x52"
+    },
+    "bc39ab9d-cc6b-4168-bc8e-d635536b4e6a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.036629,
+        "matrix_size": "92x92"
+    },
+    "bc3e4bd7-7b04-49dc-8637-9bbed0c4c8a0": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.968083,
+        "matrix_size": "47x47"
+    },
+    "bc62ec7e-760d-4706-aef0-9ffcbb0e77ed": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024102,
+        "matrix_size": "76x76"
+    },
+    "bc71f931-db27-44e6-a6c2-9138a57bf656": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.942004,
+        "matrix_size": "63x63"
+    },
+    "bc7338b9-5f15-4adb-a3c9-bf31c615aa8a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.042397,
+        "matrix_size": "73x73"
+    },
+    "bc7a1787-70ce-4b89-ab2a-6ac9eec3f09e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.065404,
+        "matrix_size": "12x12"
+    },
+    "bc83e394-7633-4fc5-a26a-ba18d74d7006": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.964501,
+        "matrix_size": "32x32"
+    },
+    "bc92d09d-2b6e-4554-a3bc-9b86afac8527": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.036861,
+        "matrix_size": "87x87"
+    },
+    "bcb24c5c-3ea9-43ed-8954-f55142a7512e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.414331,
+        "matrix_size": "85x85"
+    },
+    "bce114f0-230b-4f8f-ba41-b510dfd766bb": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.195808,
+        "matrix_size": "60x60"
+    },
+    "bd7170f1-7649-4198-94d8-a799a5ddf872": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.27118,
+        "matrix_size": "98x98"
+    },
+    "bd7e6e55-91d5-4c9a-8410-b752cfacde8e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.220012,
+        "matrix_size": "19x19"
+    },
+    "bd82782c-b7b4-4f68-bb38-cdc9c1afdb42": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.918821,
+        "matrix_size": "32x32"
+    },
+    "bdb6a890-2262-49e3-9e5c-eb93bcc30883": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.442685,
+        "matrix_size": "50x50"
+    },
+    "be77b337-28c2-44c3-83b3-f67cc8102ddb": {
+        "architecture": "CPU",
+        "executionTime_ms": 8.102471,
+        "matrix_size": "63x63"
+    },
+    "be8537a2-ac55-48b6-97ca-bfee6f54f608": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.032678,
+        "matrix_size": "10x10"
+    },
+    "bea9a4b9-f148-4c4d-85fb-eef6b4122839": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.801155,
+        "matrix_size": "55x55"
+    },
+    "beadbc11-c7f8-458f-b2eb-8929e124c720": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026673,
+        "matrix_size": "64x64"
+    },
+    "bf164824-1d5c-4db2-bc53-e8258c3f5922": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.040646,
+        "matrix_size": "98x98"
+    },
+    "bf2d28d4-527a-4dec-9ac9-5db525fe441b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02892,
+        "matrix_size": "83x83"
+    },
+    "bf44956c-4e14-4ca7-ace4-44cbe6009317": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.501228,
+        "matrix_size": "58x58"
+    },
+    "bf531547-37ed-4151-a138-f32c21d36094": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.113369,
+        "matrix_size": "33x33"
+    },
+    "bf73e67c-4493-4e5c-9708-36490ef1048e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.0471,
+        "matrix_size": "82x82"
+    },
+    "bfbe7f7e-e85f-44b7-965c-b5a59e72047d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.03055,
+        "matrix_size": "80x80"
+    },
+    "bff30df8-18f9-4fe4-a9f5-a3f494cae4b5": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.088149,
+        "matrix_size": "99x99"
+    },
+    "c011298a-2417-4fc9-8e9e-11adf256de76": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.196502,
+        "matrix_size": "19x19"
+    },
+    "c0f3c5ea-0039-455c-8841-61d703d52eea": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.034612,
+        "matrix_size": "89x89"
+    },
+    "c0fbb508-9b73-4504-a72e-c4c4e16b652b": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.395882,
+        "matrix_size": "36x36"
+    },
+    "c266fd7c-d252-4cbf-9f58-311cdaa3ea16": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023172,
+        "matrix_size": "64x64"
+    },
+    "c2839456-c984-41c6-842f-95a9f2f0c327": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.712042,
+        "matrix_size": "28x28"
+    },
+    "c28966da-2c37-4007-a25e-9225034037ff": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.107046,
+        "matrix_size": "54x54"
+    },
+    "c2c472e3-e00a-44d9-9b7e-52e136953335": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.002957,
+        "matrix_size": "3x3"
+    },
+    "c2d6dd78-97fb-4eae-93a3-b2c2fafe59bf": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.714911,
+        "matrix_size": "29x29"
+    },
+    "c2f95d68-6b6c-4ee8-be8a-3afc58669aab": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.040346,
+        "matrix_size": "97x97"
+    },
+    "c314c339-1b63-4b5a-909b-c751d94e8c0f": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.150648,
+        "matrix_size": "17x17"
+    },
+    "c39195a7-1597-48d6-8aab-2ba56899c920": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.325638,
+        "matrix_size": "52x52"
+    },
+    "c3fcdeff-e058-4f77-96aa-5913fe878f81": {
+        "architecture": "CPU",
+        "executionTime_ms": 9.995213,
+        "matrix_size": "62x62"
+    },
+    "c40ca60c-f0b6-4d01-b2bc-18ef70445ed6": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.090895,
+        "matrix_size": "14x14"
+    },
+    "c465352b-22a0-408d-bc5d-e6087ccefa13": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.893332,
+        "matrix_size": "46x46"
+    },
+    "c48518a1-b22d-4e20-8655-ef9f7b7f180e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.055403,
+        "matrix_size": "91x91"
+    },
+    "c494cf87-ec90-490c-8d88-214fdb293bc2": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.520992,
+        "matrix_size": "36x36"
+    },
+    "c4a45ce9-613a-498e-8264-66217fabf2e2": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.127729,
+        "matrix_size": "51x51"
+    },
+    "c4bbf369-e394-4d8a-a213-8d01da2f6b9c": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.325673,
+        "matrix_size": "41x41"
+    },
+    "c4ded931-66a9-4099-ac29-77539c936790": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.167685,
+        "matrix_size": "89x89"
+    },
+    "c558f2a1-f651-40e5-9374-060d79c6d393": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.130501,
+        "matrix_size": "34x34"
+    },
+    "c55a3d47-dec1-4ff5-a519-77fd9c4e936b": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.054107,
+        "matrix_size": "12x12"
+    },
+    "c58a2019-2f7a-4e0f-94fe-6f85d9fbb534": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.033445,
+        "matrix_size": "88x88"
+    },
+    "c5c685be-f3bb-4c84-9047-b480e9456231": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02743,
+        "matrix_size": "69x69"
+    },
+    "c5f5fea3-8397-4b5e-b273-b1f7d058fce5": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.03609,
+        "matrix_size": "94x94"
+    },
+    "c6311442-88a4-49f0-b34f-5424280d58b3": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.795063,
+        "matrix_size": "49x49"
+    },
+    "c633fdb9-39bb-49d1-aa16-0365fb060624": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.044932,
+        "matrix_size": "97x97"
+    },
+    "c6ff6ae5-28b7-4dcd-a830-86abd10dcb77": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.067049,
+        "matrix_size": "76x76"
+    },
+    "c72e5937-0a58-4012-860e-cb11958df15b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.028121,
+        "matrix_size": "70x70"
+    },
+    "c75b8e20-f170-40d3-abb5-8862fca4d8ea": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.008573,
+        "matrix_size": "6x6"
+    },
+    "c75cf0ae-b643-4065-a33a-14fe89db7d2d": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.151745,
+        "matrix_size": "62x62"
+    },
+    "c788e9e4-c25e-4573-817f-2256a923a551": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.106683,
+        "matrix_size": "13x13"
+    },
+    "c809daff-7b0c-425c-8af0-51bbafdd5925": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.034903000000000003,
+        "matrix_size": "91x91"
+    },
+    "c82273b6-b29e-4283-8326-16ffdbfd3e4a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.006452,
+        "matrix_size": "5x5"
+    },
+    "c8426ec1-15b8-450f-ac04-36e1acc41c90": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02764,
+        "matrix_size": "69x69"
+    },
+    "c8d4244e-1025-4c6a-a14b-b6da44914d51": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.042354,
+        "matrix_size": "68x68"
+    },
+    "c955d6f5-2a39-4c72-9cff-ea5046e97b69": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.205562,
+        "matrix_size": "48x48"
+    },
+    "c9f6d6aa-703a-421d-8edf-f6950e468d9e": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.121216,
+        "matrix_size": "39x39"
+    },
+    "c9f70b06-a7f4-412a-9470-0e99e4914e1c": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.452443,
+        "matrix_size": "37x37"
+    },
+    "ca234ab0-e682-4e6e-a35a-a96ef459b970": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029005,
+        "matrix_size": "88x88"
+    },
+    "cabd59ac-6afb-41c1-b6f8-bd0a0bed3dbd": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.244099,
+        "matrix_size": "35x35"
+    },
+    "caf9c14d-e623-422e-9198-4a10002dec90": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.061869,
+        "matrix_size": "41x41"
+    },
+    "cb0f1d8b-158f-4599-8f29-856dc9bf6c53": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.871883,
+        "matrix_size": "55x55"
+    },
+    "cb101970-c8f4-4855-84c0-19e33164d74a": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.163117,
+        "matrix_size": "48x48"
+    },
+    "cb22e47d-ab93-45a8-89dd-4516dfce9db6": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022828,
+        "matrix_size": "67x67"
+    },
+    "cb5ac34c-9467-475a-be3d-3adda4528e1f": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.033216,
+        "matrix_size": "90x90"
+    },
+    "cb5d1636-8c25-41b5-9d36-0951b67a49bd": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023188,
+        "matrix_size": "65x65"
+    },
+    "cbacd328-3581-4702-b1b7-cbe2f12e53fb": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.009535,
+        "matrix_size": "6x6"
+    },
+    "cbd39862-9a90-41ff-bfc6-3f37d83cee44": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.014821,
+        "matrix_size": "7x7"
+    },
+    "cbf64e8d-a8b6-48c0-a538-df429cc435f5": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.321178,
+        "matrix_size": "48x48"
+    },
+    "cbf78573-9338-431e-8bc8-e3e9b2b2b6dc": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.050048,
+        "matrix_size": "91x91"
+    },
+    "cc0a9581-6edb-420f-a4d6-905799130720": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024908,
+        "matrix_size": "74x74"
+    },
+    "cc0c6a61-df1f-40b7-a30a-ae5f5716307a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.030121,
+        "matrix_size": "87x87"
+    },
+    "cc47a446-e64c-45d7-824a-2543c1349663": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.700385,
+        "matrix_size": "61x61"
+    },
+    "ccea9f4d-84d0-4e0d-b360-4e8196b0ee5d": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.572873,
+        "matrix_size": "58x58"
+    },
+    "cd195488-6599-4500-9add-1c5136724930": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.494762,
+        "matrix_size": "45x45"
+    },
+    "cd613faa-598c-46fa-a611-55999ae90d48": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026995,
+        "matrix_size": "83x83"
+    },
+    "cdbacaab-995a-4afd-a2cb-656e193a5633": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.063113,
+        "matrix_size": "94x94"
+    },
+    "cdd8c304-a546-4d0a-83f0-ff701339f263": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.647301,
+        "matrix_size": "52x52"
+    },
+    "cdfff51d-6b93-4570-84e2-1a23e5c9467a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.048073,
+        "matrix_size": "81x81"
+    },
+    "ce335ea7-124c-4653-8872-d46e8afe61c8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.027832,
+        "matrix_size": "81x81"
+    },
+    "ce81e236-3993-4f9d-a779-c3c7631ac9fe": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.265602,
+        "matrix_size": "35x35"
+    },
+    "ce84fbac-3d6b-457c-bdaf-c4ca47ea8096": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.034554,
+        "matrix_size": "88x88"
+    },
+    "ce8be768-b743-4020-a054-900f96c7ef7d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.036131,
+        "matrix_size": "93x93"
+    },
+    "ce992674-c2c1-40b0-ae51-981fbdc15476": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.002929,
+        "matrix_size": "2x2"
+    },
+    "ceb31e0d-5f34-4853-960a-8142894f1b85": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026288,
+        "matrix_size": "81x81"
+    },
+    "cef75d75-1e31-45ec-b98a-6fda3e119395": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.850349,
+        "matrix_size": "46x46"
+    },
+    "cf27d462-1c59-4021-a85f-c592b68b4fc4": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.679869,
+        "matrix_size": "50x50"
+    },
+    "cf6f36e2-fc08-4a2e-bc99-a58c9398c9e8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.04073,
+        "matrix_size": "100x100"
+    },
+    "cf8a38aa-172d-43be-8ec0-9b0a0fbd86fc": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.07406,
+        "matrix_size": "13x13"
+    },
+    "cfb98177-5d5c-40ee-9558-e55ae437c5ad": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.036183,
+        "matrix_size": "92x92"
+    },
+    "cfc4a40f-a494-4e12-9eb1-879d097c4c6a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.062367,
+        "matrix_size": "100x100"
+    },
+    "d008db02-abdd-427a-a8c1-623f2f7d125e": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.076699,
+        "matrix_size": "51x51"
+    },
+    "d0610938-86a5-4de4-b88d-cc2377b316b5": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.025448,
+        "matrix_size": "76x76"
+    },
+    "d0c05cd1-8c31-49db-b1fd-1ef1934c3d38": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.102987,
+        "matrix_size": "32x32"
+    },
+    "d0e417c9-c211-4544-864a-0305da2e5b8d": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.218858,
+        "matrix_size": "19x19"
+    },
+    "d1352eb4-e748-4021-b163-e3115a5a364a": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.021832,
+        "matrix_size": "66x66"
+    },
+    "d16afd38-7f9e-46ce-a9fa-b6e67aa42305": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.19583,
+        "matrix_size": "30x30"
+    },
+    "d1f93d85-5375-49f9-ac52-cde25861751a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.021459,
+        "matrix_size": "8x8"
+    },
+    "d2425b07-b124-48fd-870a-938c1eddda3d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.025483,
+        "matrix_size": "70x70"
+    },
+    "d2a96296-70b1-429f-8e8b-2d673ff4a6c0": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.025563,
+        "matrix_size": "81x81"
+    },
+    "d2ade977-6032-44ff-92e4-867e7fd2f4d0": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.212245,
+        "matrix_size": "57x57"
+    },
+    "d2ef40a0-d6d4-4304-b748-73fd2a1e02e3": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.112394,
+        "matrix_size": "60x60"
+    },
+    "d42b8255-229a-43fa-8f07-8285dd8409e8": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.292979,
+        "matrix_size": "53x53"
+    },
+    "d4890e7d-d7be-4cc3-a636-bf26b50026a0": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.002704,
+        "matrix_size": "3x3"
+    },
+    "d5263d3f-7d6b-4046-9e2a-1f50b2680193": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.283127,
+        "matrix_size": "20x20"
+    },
+    "d549d157-aa5b-4e2c-a3c9-c7bc5b9d831a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.890589,
+        "matrix_size": "32x32"
+    },
+    "d57e06e4-2d5f-40d7-a4ef-3755dbd1ece9": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.033143,
+        "matrix_size": "10x10"
+    },
+    "d5b025cf-5a5d-40b1-8086-817f63863138": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.322148,
+        "matrix_size": "51x51"
+    },
+    "d5b76249-9dbc-48b0-8b50-6be1ba48d034": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.992506,
+        "matrix_size": "34x34"
+    },
+    "d5e2fc6b-61eb-4381-9080-d4d2c5c0a14a": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.00787,
+        "matrix_size": "31x31"
+    },
+    "d5fd90bf-5f69-4b8c-a7d0-2ed75c39dd90": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023298,
+        "matrix_size": "74x74"
+    },
+    "d5ffcb6f-6cca-47ca-a000-2144beb2b70c": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.090719,
+        "matrix_size": "14x14"
+    },
+    "d6d23767-df57-4a24-8feb-e2922feaf7cc": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.383454,
+        "matrix_size": "53x53"
+    },
+    "d6d8be57-b010-4fdf-9ff2-e4b05cf9a8ac": {
+        "architecture": "CPU",
+        "executionTime_ms": 9.332543,
+        "matrix_size": "63x63"
+    },
+    "d6ea3e35-0cab-40a0-840c-02c7083bf785": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.037408,
+        "matrix_size": "94x94"
+    },
+    "d715e554-b607-4720-ac63-c4454884b28d": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.809565,
+        "matrix_size": "51x51"
+    },
+    "d73e447f-cbdb-4a3b-af95-68bb71441fe0": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.040657,
+        "matrix_size": "100x100"
+    },
+    "d761ff9f-a5d9-4db2-baa8-3f6139032735": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.321255,
+        "matrix_size": "33x33"
+    },
+    "d7bcd5d7-103b-4719-b21d-0f503213fe15": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.196813,
+        "matrix_size": "77x77"
+    },
+    "d7e167c4-0c44-47ac-aeba-11616d264a9c": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.034394,
+        "matrix_size": "10x10"
+    },
+    "d83d85f9-6e19-47bc-b362-678e70094c13": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.11646,
+        "matrix_size": "42x42"
+    },
+    "d85139f2-7140-47f6-806c-589209e849c6": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.625048,
+        "matrix_size": "47x47"
+    },
+    "d86a9b89-1122-4a3e-b656-5e1fa01c69cc": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.876519,
+        "matrix_size": "60x60"
+    },
+    "d879b9f2-9f1c-4d02-95f6-482422c61b7c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023171,
+        "matrix_size": "72x72"
+    },
+    "d9158af3-8e68-4a93-8f96-59c4f14f70f0": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.059113,
+        "matrix_size": "12x12"
+    },
+    "d92bd0fb-6d04-4900-ac2a-53c53fbb2e66": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.037819,
+        "matrix_size": "93x93"
+    },
+    "d9426bf1-22ba-47ce-919f-491f57a10631": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.271825,
+        "matrix_size": "19x19"
+    },
+    "d965f9f5-eb5c-4b34-9aa9-90a8e3fd25b5": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.536453,
+        "matrix_size": "26x26"
+    },
+    "d9a2b99f-c990-4e1e-a7d3-0005e698061b": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.490659,
+        "matrix_size": "54x54"
+    },
+    "d9cab572-2fa5-43b3-985f-764e15d90e05": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.035624,
+        "matrix_size": "84x84"
+    },
+    "da11f985-9005-4a30-b323-34b3204f5039": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.01372,
+        "matrix_size": "7x7"
+    },
+    "da7b104a-1d1d-4dc0-b177-fddc13c11e47": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.047194,
+        "matrix_size": "64x64"
+    },
+    "daebcf01-bd61-4b23-9253-0c3eac2f105e": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.472531,
+        "matrix_size": "55x55"
+    },
+    "dc215abf-586e-4e5f-bba0-850cac6418c7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.120599,
+        "matrix_size": "16x16"
+    },
+    "dc58ac36-9f1e-4cbb-8c24-d1a758524bd6": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.005044,
+        "matrix_size": "4x4"
+    },
+    "dca54c07-0b84-455d-a3d0-87efe5a1e6f6": {
+        "architecture": "CPU",
+        "executionTime_ms": 9.519707,
+        "matrix_size": "62x62"
+    },
+    "dcc0de42-3088-40e2-93e9-ff071f9e8170": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.041219,
+        "matrix_size": "97x97"
+    },
+    "dcd20758-817f-4660-b9f1-c0292a688531": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.254849,
+        "matrix_size": "44x44"
+    },
+    "dd5c8db1-4904-49a5-976a-5c327d3f2dd1": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.14897,
+        "matrix_size": "45x45"
+    },
+    "dd7c5fcf-7f6f-49e5-8b74-88d3f1735275": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.035503,
+        "matrix_size": "52x52"
+    },
+    "dd85c6cb-8e08-43a1-91f4-ca9e58295c3c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.091516,
+        "matrix_size": "71x71"
+    },
+    "dda776be-396d-4161-a88d-262f7eb2ca15": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.001978,
+        "matrix_size": "2x2"
+    },
+    "de88e740-5cc8-48fd-a4cc-c8a34e955025": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.03696,
+        "matrix_size": "94x94"
+    },
+    "df063bd7-58a9-4a21-9ee3-7a5e4762f763": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.026832,
+        "matrix_size": "9x9"
+    },
+    "df408cbc-5130-4e22-97c9-3c1aaf4d24bd": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.291444,
+        "matrix_size": "41x41"
+    },
+    "df6f5ee2-fed4-46b4-b767-46bab7c0a827": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.032093000000000003,
+        "matrix_size": "89x89"
+    },
+    "dfbb5ebd-60d4-40ef-ac64-2f67e607fd0a": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.571131,
+        "matrix_size": "50x50"
+    },
+    "e041a91b-0d49-486d-92af-ce06d3da6f49": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.542775,
+        "matrix_size": "38x38"
+    },
+    "e04cabf9-a2c2-458e-89f3-47d63aaa1717": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.001714,
+        "matrix_size": "2x2"
+    },
+    "e07c38ef-58e1-4c66-aa24-4360ed4d602b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.048351,
+        "matrix_size": "90x90"
+    },
+    "e093dbe6-74d0-41c4-b6dc-112f0efc5446": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.217769,
+        "matrix_size": "91x91"
+    },
+    "e0956a3c-0d9a-482e-8cee-3efa3b1cece2": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.785192,
+        "matrix_size": "30x30"
+    },
+    "e0cc67aa-bbd0-402a-af88-e7ee7c371910": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024039,
+        "matrix_size": "75x75"
+    },
+    "e180a5ae-3faa-4e86-a06e-a3c400de5032": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.222135,
+        "matrix_size": "95x95"
+    },
+    "e18e0db3-8dad-45c7-9838-27b0a1d1f599": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.104427,
+        "matrix_size": "13x13"
+    },
+    "e19f0b23-b14d-41be-9734-cd99672ad6e1": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.055509,
+        "matrix_size": "88x88"
+    },
+    "e1ec884e-b74e-4b36-ad55-a603729b420c": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.028837,
+        "matrix_size": "9x9"
+    },
+    "e22963bc-5ed1-40f6-9240-fc14b76458c3": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.036444,
+        "matrix_size": "10x10"
+    },
+    "e22adc90-8b4f-40c3-8837-b577f23b38e9": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.26485,
+        "matrix_size": "53x53"
+    },
+    "e281e57d-67ee-41d1-afc3-2a6d58f911ec": {
+        "architecture": "CPU",
+        "executionTime_ms": 8.287856,
+        "matrix_size": "62x62"
+    },
+    "e2da9713-4a96-48b2-939c-3eb562503b53": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.791249,
+        "matrix_size": "28x28"
+    },
+    "e310d753-d8a0-4f1a-aec6-93e5f89274a7": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.047124,
+        "matrix_size": "91x91"
+    },
+    "e352153b-98bc-4ecc-a4d0-fc8770816356": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.696404,
+        "matrix_size": "24x24"
+    },
+    "e381f2e7-2f23-488a-b0c8-449f76e5e936": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.981602,
+        "matrix_size": "33x33"
+    },
+    "e3993156-507f-4db3-a86a-a8a69b5948e5": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.218568,
+        "matrix_size": "99x99"
+    },
+    "e3a21dfb-8ec5-4384-b8bf-fe09f2b4dc62": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.049518,
+        "matrix_size": "11x11"
+    },
+    "e3c8e743-c177-4d12-9199-096661118eec": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.927834,
+        "matrix_size": "51x51"
+    },
+    "e4a574ca-5d4a-4007-ba1e-d2f21741c2dc": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022829,
+        "matrix_size": "68x68"
+    },
+    "e4b7357a-e33f-4f2c-9e49-880cc894104e": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.077491,
+        "matrix_size": "72x72"
+    },
+    "e4bc8604-ab20-4d0f-8bed-2233e82c92a1": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024188,
+        "matrix_size": "80x80"
+    },
+    "e4cfc8ee-fa34-4b82-9553-170d258c128f": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.735053,
+        "matrix_size": "44x44"
+    },
+    "e51e9a8a-87d9-499d-8c4d-bb86d4219803": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.0265,
+        "matrix_size": "77x77"
+    },
+    "e5458803-a8e6-45ec-a495-22a21e602ea9": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.089261,
+        "matrix_size": "82x82"
+    },
+    "e54aab67-6c02-40b7-9e6a-84a535f58005": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.561304,
+        "matrix_size": "23x23"
+    },
+    "e54fa49a-d772-4218-8b15-e8bbd1c41f9f": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.105103,
+        "matrix_size": "15x15"
+    },
+    "e55d89a9-b949-4dca-9be7-e20e08f81f38": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.043646,
+        "matrix_size": "9x9"
+    },
+    "e5ada148-dd42-4ad2-959e-98ec47dc6211": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.416904,
+        "matrix_size": "21x21"
+    },
+    "e5c17aaf-f446-48b5-889e-acd7ae034f95": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.219456,
+        "matrix_size": "97x97"
+    },
+    "e60453c1-0708-4772-9f6d-91d435485abb": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.098148,
+        "matrix_size": "42x42"
+    },
+    "e6309d8f-5551-4b85-b823-43cbc2542716": {
+        "architecture": "CPU",
+        "executionTime_ms": 9.898751,
+        "matrix_size": "59x59"
+    },
+    "e67bb352-8184-4927-9643-bfa47874debe": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.025818,
+        "matrix_size": "71x71"
+    },
+    "e697ec40-31b3-4022-9a7a-f45d037bea35": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.006645,
+        "matrix_size": "5x5"
+    },
+    "e746323e-84fa-428d-b892-69f156f3ea90": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.703864,
+        "matrix_size": "36x36"
+    },
+    "e7b19c89-b18e-4ecc-b13f-1dad33f3b769": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.025272,
+        "matrix_size": "9x9"
+    },
+    "e851daa3-2df9-4a4c-9d1e-6877bb3bf887": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.589617,
+        "matrix_size": "22x22"
+    },
+    "e9a1dc9a-1a8f-4c0d-b86f-b8b4b170022b": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.29572,
+        "matrix_size": "21x21"
+    },
+    "e9b3fb6b-59ae-4b25-9f2e-8f380a5d4008": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.469051,
+        "matrix_size": "26x26"
+    },
+    "e9e1856b-e60b-4b80-8f39-a469d5e4f264": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.046638,
+        "matrix_size": "52x52"
+    },
+    "ea1bc3a4-ff3e-4216-88f9-4218b92056a1": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.055966,
+        "matrix_size": "74x74"
+    },
+    "eac5d498-2b41-44d2-bbc3-9829e1dfa283": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.231978,
+        "matrix_size": "42x42"
+    },
+    "ead4d484-2357-462e-aac8-8c5533903430": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.037203,
+        "matrix_size": "30x30"
+    },
+    "eae07950-e218-42d9-9094-0594b2c237a6": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.516754,
+        "matrix_size": "45x45"
+    },
+    "eaf1f6bf-5c83-45f0-afbe-c3b14888d198": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.945103,
+        "matrix_size": "30x30"
+    },
+    "eb234232-c41b-4426-a1b7-90e746583e54": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.015416,
+        "matrix_size": "7x7"
+    },
+    "ebcf3730-42a4-43ae-89b7-fe025f1f9330": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.091098,
+        "matrix_size": "14x14"
+    },
+    "ebfda8b1-ff6a-4cc3-a968-3747b4ae204d": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.801241,
+        "matrix_size": "29x29"
+    },
+    "ec0261ae-593d-49cf-8bda-a5e83f63945d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02377,
+        "matrix_size": "72x72"
+    },
+    "ec1437ab-7e10-4d7a-9403-54cd7577320c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.034022,
+        "matrix_size": "92x92"
+    },
+    "ec1f1db5-f00e-4f7c-91fe-adca3f6874e3": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.618531,
+        "matrix_size": "53x53"
+    },
+    "ec38cc96-4858-422d-b44a-540f9f53bae9": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.038155,
+        "matrix_size": "98x98"
+    },
+    "ecf070e4-77a0-4250-83c4-654ddff3101a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.009698,
+        "matrix_size": "6x6"
+    },
+    "ed02f811-8bc4-4848-9a55-27aa5b715173": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.038022,
+        "matrix_size": "95x95"
+    },
+    "edb90c0c-d431-4a5a-9eda-fa60d4f1a26d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.025949,
+        "matrix_size": "80x80"
+    },
+    "edf6ecd8-d3f4-4708-9a11-19cddf6d1491": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.079842,
+        "matrix_size": "76x76"
+    },
+    "ee4de84e-1891-43ef-bf03-cec2eadf053f": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.2124,
+        "matrix_size": "18x18"
+    },
+    "ee569181-824a-4421-9775-9e049244c3d5": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.039826,
+        "matrix_size": "77x77"
+    },
+    "eea48bf6-a0c5-4a81-b8b6-28271e450e1b": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.214515,
+        "matrix_size": "71x71"
+    },
+    "ef21753b-04d1-4a77-8791-019aad6cf17c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.038499,
+        "matrix_size": "96x96"
+    },
+    "ef9a59c2-c510-44a6-bf78-cf82ed767127": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.129377,
+        "matrix_size": "17x17"
+    },
+    "efadea94-1247-4589-a6d7-1fc243516ef4": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.039621,
+        "matrix_size": "91x91"
+    },
+    "efcb4ebe-c87c-4197-8ea2-0d4c91597d0c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029987,
+        "matrix_size": "86x86"
+    },
+    "efdc4835-7baf-4111-8c48-1c061cb988c8": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.536019,
+        "matrix_size": "38x38"
+    },
+    "f0543913-3496-48f7-8a69-07eba99cc003": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.184986,
+        "matrix_size": "18x18"
+    },
+    "f060c3db-382d-4b2e-aa64-1f01a80efeef": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.942708,
+        "matrix_size": "43x43"
+    },
+    "f07c61d2-7f4c-403b-89b3-5055bdc3d4cf": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.029606,
+        "matrix_size": "64x64"
+    },
+    "f0842d52-e453-46df-9c3a-ecba6369abf3": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.645546,
+        "matrix_size": "27x27"
+    },
+    "f0a413b7-07aa-4306-9853-c989420a67fd": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.036713,
+        "matrix_size": "85x85"
+    },
+    "f1c4c09c-709f-4112-96dd-1e447ba092aa": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023949,
+        "matrix_size": "73x73"
+    },
+    "f1d7d83d-8f22-439b-a2d1-a370cd260d5d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.022148,
+        "matrix_size": "64x64"
+    },
+    "f1fc0f4e-d43f-49c4-9385-98d0e755a97e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.027211,
+        "matrix_size": "10x10"
+    },
+    "f2004cb4-c64d-4f82-99ac-5ca060725d41": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.106146,
+        "matrix_size": "14x14"
+    },
+    "f2582c09-7543-4cd2-ab17-4cc1f1725224": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.796248,
+        "matrix_size": "39x39"
+    },
+    "f2f94faa-01d1-40d0-a5f9-93fd94d06d7f": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02849,
+        "matrix_size": "73x73"
+    },
+    "f31dcd3d-39a6-46d3-9ed2-4aa2d592b424": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.775208,
+        "matrix_size": "98x98"
+    },
+    "f3bcce2b-4c27-45ba-b6e5-e1f329500646": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.034353,
+        "matrix_size": "92x92"
+    },
+    "f457f7d2-5471-4c98-8acc-30ecdbce0d81": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.025823,
+        "matrix_size": "79x79"
+    },
+    "f4a55020-c3b0-4eaf-a4f4-5661eebb5f9a": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.954788,
+        "matrix_size": "55x55"
+    },
+    "f4d67698-436f-4b00-a6de-ef22f9babda6": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.67051,
+        "matrix_size": "29x29"
+    },
+    "f50284e6-688a-41fc-82aa-229943582a34": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.92535,
+        "matrix_size": "32x32"
+    },
+    "f52e2442-d206-4171-9df4-86a3e6585b18": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.537442,
+        "matrix_size": "44x44"
+    },
+    "f53644cc-365f-4013-8642-8b426b3ae323": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.456195,
+        "matrix_size": "36x36"
+    },
+    "f689ffd0-6260-415d-98dc-b2016a0eab66": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.53983,
+        "matrix_size": "31x31"
+    },
+    "f6b037bd-2eca-494b-9c16-3395da03a16b": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.223103,
+        "matrix_size": "51x51"
+    },
+    "f6be31a6-a476-480f-aa8f-9d3f4db924aa": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.023169,
+        "matrix_size": "73x73"
+    },
+    "f6e85a5e-3fb5-4019-92c2-6eb1f707a20b": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.338126,
+        "matrix_size": "42x42"
+    },
+    "f701cf56-8346-495d-9fb9-24817921b1a8": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.026959,
+        "matrix_size": "66x66"
+    },
+    "f7181b33-2afd-4bf6-9672-579f3aac9c40": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.027591,
+        "matrix_size": "83x83"
+    },
+    "f7394240-7883-4175-aea9-33dbe3e2abf1": {
+        "architecture": "CPU",
+        "executionTime_ms": 1.172153,
+        "matrix_size": "34x34"
+    },
+    "f752f259-c85d-4cbb-a904-e91383d113ab": {
+        "architecture": "CPU",
+        "executionTime_ms": 7.347058,
+        "matrix_size": "60x60"
+    },
+    "f7cf0f51-3e23-4db4-aca5-3aa12f53dc36": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.175647,
+        "matrix_size": "18x18"
+    },
+    "f81ceeae-bccd-4b95-a9cd-fc7c8646284c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.038362,
+        "matrix_size": "96x96"
+    },
+    "f935dc0b-e845-4a2f-9a1c-7b9ca479748e": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.401378,
+        "matrix_size": "23x23"
+    },
+    "f95dcacc-167f-466d-b70b-a8e54dcdfd93": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.585327,
+        "matrix_size": "27x27"
+    },
+    "f9d82fc2-4c78-440a-9c6b-c6e42d040030": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.820608,
+        "matrix_size": "28x28"
+    },
+    "f9e590cb-4f69-4062-9529-aac9dc5f7f30": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.067429,
+        "matrix_size": "100x100"
+    },
+    "fa0a373a-4f50-42ca-9d16-664889c3d9c4": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.035557,
+        "matrix_size": "91x91"
+    },
+    "fa3240ae-5047-4911-a750-1dd994cb3771": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.003043,
+        "matrix_size": "3x3"
+    },
+    "fa60057e-4cc8-4655-8642-31680592b187": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.926518,
+        "matrix_size": "59x59"
+    },
+    "faa9b2b2-1de7-472f-871d-d84d5ddfa94c": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.021815,
+        "matrix_size": "67x67"
+    },
+    "faae4723-c437-4138-ac44-1797ae2b6615": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.001805,
+        "matrix_size": "2x2"
+    },
+    "faccc6c2-7701-4915-b34f-26bc95095a16": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.562467,
+        "matrix_size": "58x58"
+    },
+    "fafdbe13-5bce-4b01-a468-a7600a23cb71": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.222604,
+        "matrix_size": "16x16"
+    },
+    "fb12f93a-95af-4abf-a484-0eeec1ca6447": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.015092,
+        "matrix_size": "7x7"
+    },
+    "fb6c306d-0e13-4d5c-a8ba-36bd06448bb9": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024735,
+        "matrix_size": "78x78"
+    },
+    "fbd1486c-8db0-4d9e-a8fe-2f1871521a8d": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.030029,
+        "matrix_size": "85x85"
+    },
+    "fbf8de68-bf52-4e20-8b7d-e8211ea24551": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.099468,
+        "matrix_size": "14x14"
+    },
+    "fc770ac7-6094-48ca-9a44-e9f1f3363e21": {
+        "architecture": "CPU",
+        "executionTime_ms": 6.107228,
+        "matrix_size": "58x58"
+    },
+    "fc8a3dca-cdd6-4f3b-b70c-66f65cfe28c1": {
+        "architecture": "CPU",
+        "executionTime_ms": 5.933325,
+        "matrix_size": "57x57"
+    },
+    "fca1e6d2-df07-479f-bda2-a8e23a002cb3": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.751962,
+        "matrix_size": "29x29"
+    },
+    "fcafc389-6b11-466a-ad33-b688a5ca6e7b": {
+        "architecture": "CPU",
+        "executionTime_ms": 2.346078,
+        "matrix_size": "42x42"
+    },
+    "fd0fc0ab-408c-4345-a78d-838de50c68f0": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.643334,
+        "matrix_size": "47x47"
+    },
+    "fd4167d6-254f-4b1b-8fd7-5d975f49399f": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.002773,
+        "matrix_size": "3x3"
+    },
+    "fd8163cf-e47f-48e4-99c3-9a0758aa5ae6": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.230659,
+        "matrix_size": "46x46"
+    },
+    "fdd37429-abee-4105-bbf1-6d046d8a87c9": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.024478,
+        "matrix_size": "65x65"
+    },
+    "fdebedd3-0da0-41ef-a5b1-214169095e64": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.070028,
+        "matrix_size": "13x13"
+    },
+    "fe3e2ade-fa02-49d0-8864-eea2f11095b7": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.567163,
+        "matrix_size": "27x27"
+    },
+    "fe4e561b-96b2-44b5-9849-96322c35f91b": {
+        "architecture": "CPU",
+        "executionTime_ms": 3.577609,
+        "matrix_size": "48x48"
+    },
+    "fe873ae0-3335-4181-bae2-58c13cab21ea": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.02371,
+        "matrix_size": "69x69"
+    },
+    "fef516b5-182f-4fe5-ba80-48286eb572d6": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.061418,
+        "matrix_size": "92x92"
+    },
+    "fef9f6c4-0df9-4c81-82c6-5b9ca490db04": {
+        "architecture": "CPU",
+        "executionTime_ms": 4.174564,
+        "matrix_size": "51x51"
+    },
+    "ff125c75-56f8-4fa8-b1f2-d6b406241a1a": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.004615,
+        "matrix_size": "4x4"
+    },
+    "ff3aa703-ee11-419b-9840-548f83e41af1": {
+        "architecture": "GPU",
+        "executionTime_ms": 0.045041,
+        "matrix_size": "80x80"
+    },
+    "ffbf6bf0-387b-4ef6-8ed8-3bc6a625906f": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.595023,
+        "matrix_size": "26x26"
+    },
+    "ffca1aa4-2c3e-467f-83ac-508d915285fb": {
+        "architecture": "CPU",
+        "executionTime_ms": 0.021347,
+        "matrix_size": "8x8"
+    }
+}

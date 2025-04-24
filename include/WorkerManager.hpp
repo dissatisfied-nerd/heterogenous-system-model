@@ -7,21 +7,32 @@
 #include <nlohmann/json.hpp>
 #include "Scheduler.hpp"
 #include "Logger.hpp"
+#include "Profiler.hpp"
+#include "Analyzer.hpp"
 
 class WorkerManager 
 {
 private:
     std::vector<std::thread> workers;
+    
     Scheduler& scheduler;
-
     Logger& logger;
+    Profiler& profiler;
+    Analyzer& analyzer;
+    
     std::atomic<int> activeTasks = 0;
     std::mutex syncMutex;
     std::condition_variable syncCv;
 
+    std::atomic<int> activeCPU = 0;
+    std::atomic<int> activeGPU = 0;
+
 public:
-    WorkerManager(Scheduler& sched, Logger& logRef);
+    WorkerManager(Scheduler& sched, Logger& logRef, Profiler& profRef, Analyzer& analyzerRef);
     void start(int numThreads);
     void wait();
+
+    int getActiveCPU() const { return activeCPU.load(); }
+    int getActiveGPU() const { return activeGPU.load(); }
 };
 
