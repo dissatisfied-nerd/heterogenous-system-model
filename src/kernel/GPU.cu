@@ -1,47 +1,64 @@
 #include "kernel/GPU.cuh"
-#include <stdexcept>
+#include <chrono>
 
-__global__ void matrixMulKernel(const float* a, const float* b, float* result, size_t size) 
+__global__ void matrixMulKernel(const double* A, const double* B, double* C, int aRows, int aCols, int bCols) 
 {
     int row = blockIdx.y * blockDim.y + threadIdx.y;
     int col = blockIdx.x * blockDim.x + threadIdx.x;
-    
-    if (row < size && col < size) 
+
+    if (row < aRows && col < bCols) 
     {
-        float sum = 0.0f;
-    
-        for (size_t k = 0; k < size; ++k) {
-            sum += a[row * size + k] * b[k * size + col];
+        double sum = 0.0;
+        
+        for (int k = 0; k < aCols; ++k){
+            sum += A[row * aCols + k] * B[k * bCols + col];
         }
-    
-        result[row * size + col] = sum;
+        
+        C[row * bCols + col] = sum;
     }
 }
 
-void CudaKernel::matrixMul(const std::vector<float> &a, 
-                           const std::vector<float> &b, 
-                           float *result, 
-                           size_t size)
+double multiplyGPU(const Task& task) 
 {
-    float *d_a, *d_b, *d_result;
-    size_t bytes = size * size * sizeof(float);
+    int aRows = task.a.size();
+    int aCols = task.a[0].size();
+    int bCols = task.b[0].size();
 
-    cudaMalloc(&d_a, bytes);
-    cudaMalloc(&d_b, bytes);
-    cudaMalloc(&d_result, bytes);
+    std::vector<double> A(aRows * aCols), B(task.b.size() * bCols), C(aRows * bCols);
 
-    cudaMemcpy(d_a, a.data(), bytes, cudaMemcpyHostToDevice);
-    cudaMemcpy(d_b, b.data(), bytes, cudaMemcpyHostToDevice);
+    for (int i = 0; i < aRows; ++i){
+        for (int j = 0; j < aCols; ++j){
+            A[i * aCols + j] = task.a[i][j];
+        }
+    }
 
-    dim3 threadsPerBlock(16, 16);
-    dim3 blocksPerGrid((size + threadsPerBlock.x - 1) / threadsPerBlock.x,
-                      (size + threadsPerBlock.y - 1) / threadsPerBlock.y);
+    for (int i = 0; i < (int)task.b.size(); ++i)
+        for (int j = 0; j < bCols; ++j)
+            B[i * bCols + j] = task.b[i][j];
 
-    matrixMulKernel<<<blocksPerGrid, threadsPerBlock>>>(d_a, d_b, d_result, size);
+    double *d_A, *d_B, *d_C;
+    cudaMalloc(&d_A, A.size() * sizeof(double));
+    cudaMalloc(&d_B, B.size() * sizeof(double));
+    cudaMalloc(&d_C, C.size() * sizeof(double));
 
-    cudaMemcpy(result, d_result, bytes, cudaMemcpyDeviceToHost);
+    cudaMemcpy(d_A, A.data(), A.size() * sizeof(double), cudaMemcpyHostToDevice);
+    cudaMemcpy(d_B, B.data(), B.size() * sizeof(double), cudaMemcpyHostToDevice);
 
-    cudaFree(d_a);
-    cudaFree(d_b);
-    cudaFree(d_result);
+    cudaDeviceSynchronize();
+    auto start = std::chrono::high_resolution_clock::now();
+
+    dim3 blockDim(16, 16);
+    dim3 gridDim((bCols + 15) / 16, (aRows + 15) / 16);
+    matrixMulKernel<<<gridDim, blockDim>>>(d_A, d_B, d_C, aRows, aCols, bCols);
+
+    cudaDeviceSynchronize();
+    auto end = std::chrono::high_resolution_clock::now();
+
+    cudaMemcpy(C.data(), d_C, C.size() * sizeof(double), cudaMemcpyDeviceToHost);
+
+    cudaFree(d_A);
+    cudaFree(d_B);
+    cudaFree(d_C);
+
+    return std::chrono::duration<double, std::milli>(end - start).count();
 }

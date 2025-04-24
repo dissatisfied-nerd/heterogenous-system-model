@@ -1,26 +1,15 @@
 #pragma once
-#include "Balancer.hpp"
-#include "WorkerManager.hpp"
-#include <thread>
-#include <atomic>
-#include <vector>
-#include <memory>
+#include <queue>
+#include <mutex>
+#include "Task.hpp"
 
-class Scheduler 
-{
-public:
-    Scheduler(Balancer& balancer, std::shared_ptr<Logger> logger);
-    ~Scheduler();
-
-    void start(size_t numWorkers = 1);
-    void stop();
-    void addTask(const Task& task);
-
+class Scheduler {
 private:
-    Balancer& balancer;
-    std::shared_ptr<Logger> logger;
-    std::atomic<bool> running{false};
-    std::vector<std::thread> workers;
+    std::queue<Task> tasks;
+    std::mutex mtx;
 
-    void workerThread();
+public:
+    void addTask(const Task& task);
+    bool hasTasks();
+    Task getNext();
 };

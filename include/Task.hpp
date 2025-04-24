@@ -1,22 +1,11 @@
 #pragma once
-#include <string>
 #include <vector>
+#include <string>
 
-enum class DeviceType { CPU, GPU, HYBRID };
-
-struct TaskProfile 
-{
-    size_t complexity;
-    size_t memory_usage;
-    DeviceType preferred_device;
-    
-    bool is_matrix_op = false;
-    size_t matrix_size = 0;
-};
-
-struct Task 
-{
+struct Task {
+    bool useGPU;
     std::string id;
-    TaskProfile profile;
-    std::vector<float> data;
+    std::vector<std::vector<double>> a;
+    std::vector<std::vector<double>> b;
+    double executionTime = 0.0;
 };

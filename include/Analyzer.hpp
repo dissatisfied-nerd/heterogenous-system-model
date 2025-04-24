@@ -1,10 +1,8 @@
 #pragma once
-#include <string>
-#include <vector>
 #include "Task.hpp"
 
-class Analyzer 
-{
+class Analyzer {
 public:
-    TaskProfile analyze(const std::vector<float>& input_data, size_t data_size);
+    Task analyze(const std::vector<std::vector<double>>& a,
+                 const std::vector<std::vector<double>>& b);
 };

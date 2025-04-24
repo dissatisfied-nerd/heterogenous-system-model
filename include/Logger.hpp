@@ -1,18 +1,14 @@
 #pragma once
-#include "Task.hpp"
+#include <mutex>
 #include <nlohmann/json.hpp>
-#include <fstream>
-#include <chrono>
+#include "Task.hpp"
 
-class Logger 
-{
-public:
-    Logger(const std::string& filename);
-    void log(const Task& task, float execTime);
-    void logError(const std::string& taskId, const std::string& error);
-
-
+class Logger {
 private:
-    std::ofstream logFile;
-    nlohmann::json jsonLog;
+    std::mutex mtx;
+    nlohmann::json data;
+
+public:
+    void logTask(const Task& task);
+    void writeToFile(const std::string& filename) const;
 };

@@ -1,29 +1,18 @@
 #include "Logger.hpp"
+#include <fstream>
 
-Logger::Logger(const std::string& filename) {
-    logFile.open(filename);
+void Logger::logTask(const Task& task) 
+{
+    std::lock_guard<std::mutex> lock(mtx);
+    data[task.id] = {
+        {"architecture", task.useGPU ? "GPU" : "CPU"},
+        {"matrixSize", task.a.size()},
+        {"executionTime_ms", task.executionTime}
+    };
 }
 
-void Logger::log(const Task& task, float execTime) 
+void Logger::writeToFile(const std::string& filename) const 
 {
-    nlohmann::json entry;
-    
-    entry["task_id"] = task.id;
-    entry["device"] = (task.profile.preferred_device == DeviceType::CPU) ? "CPU" : "GPU";
-    entry["size"] = task.profile.matrix_size;
-    entry["exec_time_ms"] = execTime;
-    
-    jsonLog.push_back(entry);
-    logFile << jsonLog.dump(4) << std::endl;
-}
-
-void Logger::logError(const std::string& taskId, const std::string& error)
-{
-    nlohmann::json entry;
-    entry["task_id"] = taskId;
-    entry["error"] = error;
-    entry["timestamp"] = std::chrono::system_clock::now().time_since_epoch().count();
-    
-    jsonLog.push_back(entry);
-    logFile << jsonLog.dump(4) << std::endl;
+    std::ofstream out(filename);
+    out << data.dump(4);
 }

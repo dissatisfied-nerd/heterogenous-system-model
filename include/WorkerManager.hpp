@@ -1,23 +1,27 @@
 #pragma once
-#include "Task.hpp"
-#include "kernel/CPU.hpp"
-#include "kernel/GPU.cuh"
+#include <thread>
+#include <vector>
+#include <mutex>
+#include <condition_variable>
+#include <atomic>
+#include <nlohmann/json.hpp>
+#include "Scheduler.hpp"
 #include "Logger.hpp"
-#include <memory>
 
 class WorkerManager 
 {
-public:
-    explicit WorkerManager(std::shared_ptr<Logger> logger);
-    
-    void executeTask(const Task& task);
-
-    WorkerManager(const WorkerManager&) = delete;
-    WorkerManager& operator=(const WorkerManager&) = delete;
-
 private:
-    std::shared_ptr<Logger> logger;
-    
-    void executeOnCpu(const Task& task);
-    void executeOnGpu(const Task& task);
+    std::vector<std::thread> workers;
+    Scheduler& scheduler;
+
+    Logger& logger;
+    std::atomic<int> activeTasks = 0;
+    std::mutex syncMutex;
+    std::condition_variable syncCv;
+
+public:
+    WorkerManager(Scheduler& sched, Logger& logRef);
+    void start(int numThreads);
+    void wait();
 };
+

@@ -1,11 +1,4 @@
 #pragma once
-#include <vector>
+#include "Task.hpp"
 
-class CpuKernel 
-{
-public:    
-    static void matrixMul(const std::vector<float>& a, 
-                         const std::vector<float>& b,
-                         std::vector<float>& result,
-                         size_t size);
-};
+double multiplyCPU(const Task& task);
