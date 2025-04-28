@@ -5,7 +5,7 @@
 #include <iostream>
 
 WorkerManager::WorkerManager(Scheduler& sched, Logger& logRef, Profiler& profRef, Analyzer& analyzerRef)
-    : scheduler(sched), logger(logRef), profiler(profRef), analyzer(analyzerRef) {}
+    : scheduler(sched), logger(logRef), profiler(profRef), analyzer(analyzerRef), memoryPool(), bufferManager(memoryPool) {}
 
 void WorkerManager::start(int numThreads) 
 {
@@ -34,13 +34,13 @@ void WorkerManager::start(int numThreads)
                 if (task.useGPU) 
                 {
                     activeGPU++;
-                    auto [execTime, transferTime] = multiplyGPU(task.a, task.b, memoryPool);
+                    auto [execTime, transferTime] = multiplyGPU(task.a, task.b, bufferManager);
                     task.executionTime = execTime;
                     task.transferTime = transferTime;
                     profiler.addSample(key, true, task.executionTime);
                     profiler.addTransferSample(key, task.transferTime);
                     activeGPU--;
-                } 
+                }                
                 else 
                 {
                     activeCPU++;
