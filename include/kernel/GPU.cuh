@@ -1,4 +1,5 @@
 #pragma once
 #include "Task.hpp"
 
-double multiplyGPU(const Task& task);
+std::pair<double, double> multiplyGPU(const std::vector<std::vector<double>>& a, const std::vector<std::vector<double>>& b);
+

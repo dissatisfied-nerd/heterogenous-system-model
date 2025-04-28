@@ -26,24 +26,31 @@ void WorkerManager::start(int numThreads)
                     ++activeTasks;
                 }
 
+                size_t bytes = (task.a.size() * task.a[0].size() + task.b.size() * task.b[0].size()) * sizeof(double);
+                size_t kb = bytes / 1024;
+                std::string key = std::to_string(kb) + "_KB";
+
+                double transferTime = 0.0;
                 if (task.useGPU) 
                 {
                     activeGPU++;
-                    task.executionTime = multiplyGPU(task);
+                    auto [execTime, transferTime] = multiplyGPU(task.a, task.b);
+                    task.executionTime = execTime;
+                    task.transferTime = transferTime;
+                    profiler.addSample(key, true, task.executionTime);
+                    profiler.addTransferSample(key, task.transferTime);
                     activeGPU--;
                 } 
                 else 
                 {
                     activeCPU++;
-                    task.executionTime = multiplyCPU(task);
+                    task.executionTime = multiplyCPU(task.a, task.b);
+                    profiler.addSample(key, false, task.executionTime);
                     activeCPU--;
                 }
                 
-
-                std::string key = std::to_string(task.a.size()) + "x" + std::to_string(task.b[0].size());
-                profiler.addSample(key, task.useGPU, task.executionTime);
                 logger.logTask(task);
-
+                                
                 {
                     std::lock_guard<std::mutex> lock(syncMutex);
                     --activeTasks;

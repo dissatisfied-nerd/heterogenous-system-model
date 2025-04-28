@@ -8,4 +8,5 @@ struct Task {
     std::vector<std::vector<double>> a;
     std::vector<std::vector<double>> b;
     double executionTime = 0.0;
+    double transferTime = 0.0;
 };

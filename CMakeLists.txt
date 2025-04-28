@@ -14,6 +14,7 @@ endif()
 file(GLOB SOURCES
     "src/*.cpp"
     "src/kernel/*.cu"
+    "src/memory/*.cu"
     "src/utils/*.cpp"
 )
 
@@ -21,6 +22,7 @@ add_executable(${PROJECT_NAME} ${SOURCES} main.cu)
 
 target_include_directories(${PROJECT_NAME} PRIVATE include)
 target_include_directories(${PROJECT_NAME} PRIVATE include/kernel)
+target_include_directories(${PROJECT_NAME} PRIVATE include/memory)
 target_include_directories(${PROJECT_NAME} PRIVATE include/utils)
 
 target_link_libraries(${PROJECT_NAME} PRIVATE nlohmann_json::nlohmann_json)

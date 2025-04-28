@@ -1,6 +1,7 @@
 #pragma once
 #include "Task.hpp"
 #include "Profiler.hpp"
+#include "AnalysisResult.hpp"
 
 class Analyzer {
 private:
@@ -11,7 +12,7 @@ private:
 
 public:
     Analyzer(Profiler& profiler);
-    Task analyze(const std::vector<std::vector<double>>& a,
+    AnalysisResult analyze(const std::vector<std::vector<double>>& a,
                     const std::vector<std::vector<double>>& b,
                     int activeCPU, int activeGPU);
     void updateThreshold();
