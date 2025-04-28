@@ -17,7 +17,8 @@ __global__ void matrixMulKernel(const double* A, const double* B, double* C,
 }
 
 std::pair<double, double> multiplyGPU(const std::vector<std::vector<double>>& a,
-          const std::vector<std::vector<double>>& b) 
+                                      const std::vector<std::vector<double>>& b,
+                                      GPUMemoryPool& memoryPool) 
 {
     int aRows = a.size();
     int aCols = a[0].size();
@@ -28,17 +29,17 @@ std::pair<double, double> multiplyGPU(const std::vector<std::vector<double>>& a,
     std::vector<double> C(aRows * bCols);
 
     for (int i = 0; i < aRows; ++i)
-    for (int j = 0; j < aCols; ++j)
-    A[i * aCols + j] = a[i][j];
+        for (int j = 0; j < aCols; ++j)
+            A[i * aCols + j] = a[i][j];
 
     for (int i = 0; i < (int)b.size(); ++i)
-    for (int j = 0; j < bCols; ++j)
-    B[i * bCols + j] = b[i][j];
+        for (int j = 0; j < bCols; ++j)
+            B[i * bCols + j] = b[i][j];
 
-    double *d_A, *d_B, *d_C;
-    cudaMalloc(&d_A, A.size() * sizeof(double));
-    cudaMalloc(&d_B, B.size() * sizeof(double));
-    cudaMalloc(&d_C, C.size() * sizeof(double));
+    // Используем пул памяти
+    double* d_A = static_cast<double*>(memoryPool.mallocAsync(A.size() * sizeof(double)));
+    double* d_B = static_cast<double*>(memoryPool.mallocAsync(B.size() * sizeof(double)));
+    double* d_C = static_cast<double*>(memoryPool.mallocAsync(C.size() * sizeof(double)));
 
     // Events
     cudaEvent_t startTransfer, endTransfer, startCompute, endCompute;
@@ -64,13 +65,16 @@ std::pair<double, double> multiplyGPU(const std::vector<std::vector<double>>& a,
     cudaMemcpy(C.data(), d_C, C.size() * sizeof(double), cudaMemcpyDeviceToHost);
     cudaDeviceSynchronize();
 
+    // Measure timings
     float transferTime = 0.0f, computeTime = 0.0f;
     cudaEventElapsedTime(&transferTime, startTransfer, endTransfer);
     cudaEventElapsedTime(&computeTime, startCompute, endCompute);
 
-    cudaFree(d_A);
-    cudaFree(d_B);
-    cudaFree(d_C);
+    // Освобождаем память через пул
+    memoryPool.freeAsync(d_A);
+    memoryPool.freeAsync(d_B);
+    memoryPool.freeAsync(d_C);
+
     cudaEventDestroy(startTransfer);
     cudaEventDestroy(endTransfer);
     cudaEventDestroy(startCompute);
@@ -78,3 +82,4 @@ std::pair<double, double> multiplyGPU(const std::vector<std::vector<double>>& a,
 
     return {computeTime, transferTime}; // в миллисекундах
 }
+

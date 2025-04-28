@@ -1,7 +1,8 @@
 #pragma once
 #include "Task.hpp"
 
-struct AnalysisResult {
+struct AnalysisResult 
+{
     Task task;
     std::string key;
     double cpuLoad;

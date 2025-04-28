@@ -9,6 +9,7 @@
 #include "Logger.hpp"
 #include "Profiler.hpp"
 #include "Analyzer.hpp"
+#include "memory/GPUPool.cuh"
 
 class WorkerManager 
 {
@@ -19,6 +20,7 @@ private:
     Logger& logger;
     Profiler& profiler;
     Analyzer& analyzer;
+    GPUMemoryPool memoryPool;
     
     std::atomic<int> activeTasks = 0;
     std::mutex syncMutex;

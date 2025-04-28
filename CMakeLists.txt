@@ -4,12 +4,12 @@ project(HeterogenousSystemModel LANGUAGES CXX CUDA)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CUDA_STANDARD 17)
 
+find_package(CUDA REQUIRED)
 find_package(nlohmann_json REQUIRED)
 find_package(Boost REQUIRED)
 
-if(Boost_FOUND)
-    include_directories(${Boost_INCLUDE_DIRS})
-endif()
+include_directories(${CUDA_INCLUDE_DIRS})
+include_directories(${Boost_INCLUDE_DIRS})
 
 file(GLOB SOURCES
     "src/*.cpp"
