@@ -5,20 +5,26 @@
 
 int main() 
 {
-    Analyzer analyzer;
+    Profiler profiler;
+    Analyzer analyzer(profiler);
     Scheduler scheduler;
     Logger logger;
 
-    for (int i = 0; i < 10; ++i) 
+    WorkerManager manager(scheduler, logger, profiler, analyzer);
+
+    analyzer.loadThreshold();
+
+    for (int i = 0; i < 100; ++i) 
     {
-        int size = GetRandInt(2, 100);
+        int size = GetRandInt(2, 1000);
         std::vector<std::vector<double>> a = GetRandMatrix(size, size);
         std::vector<std::vector<double>> b = GetRandMatrix(size, size);
 
-        scheduler.addTask(analyzer.analyze(a, b));
+        AnalysisResult result = analyzer.analyze(a, b, manager.getActiveCPU(), manager.getActiveGPU());
+        scheduler.addTask(result.task);
+        logger.logDecision(result.task.id, result.key, result.cpuLoad, result.gpuLoad, result.transfer, result.reason);
     }
 
-    WorkerManager manager(scheduler, logger);
     manager.start(4);
     manager.wait();
 
