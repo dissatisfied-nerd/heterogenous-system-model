@@ -34,7 +34,7 @@ void WorkerManager::start(int numThreads)
                 if (task.useGPU) 
                 {
                     activeGPU++;
-                    auto [execTime, transferTime] = multiplyGPU(task.a, task.b, bufferManager);
+                    auto [execTime, transferTime] = multiplyGPU_async(task.a, task.b, bufferManager);
                     task.executionTime = execTime;
                     task.transferTime = transferTime;
                     profiler.addSample(key, true, task.executionTime);
